@@ -1,0 +1,147 @@
+[
+  {
+    "name": "root",
+    "categories": [
+      {
+        "name": "root",
+        "docs": [
+          {
+            "title": "Introduction",
+            "permalink": "introduction",
+            "contentPath": "introduction.md"
+          },
+          {
+            "title": "Writing the first test",
+            "permalink": "first-test",
+            "contentPath": "first-test.md"
+          },
+          {
+            "title": "TypeScript and ESM support",
+            "permalink": "esm-and-ts-support",
+            "contentPath": "esm-and-ts-support.md"
+          },
+          {
+            "title": "Testing asynchronous code",
+            "permalink": "testing-async-code",
+            "contentPath": "testing-async-code.md"
+          },
+          {
+            "title": "Grouping tests",
+            "permalink": "grouping-tests",
+            "contentPath": "grouping-tests.md"
+          },
+          {
+            "title": "Assertions",
+            "permalink": "assertions",
+            "contentPath": "assertions.md"
+          },
+          {
+            "title": "Expectations",
+            "permalink": "expectations",
+            "contentPath": "expectations.md"
+          },
+          {
+            "title": "Lifecycle hooks",
+            "permalink": "lifecycle-hooks",
+            "contentPath": "lifecycle-hooks.md"
+          },
+          {
+            "title": "Datasets",
+            "permalink": "datasets",
+            "contentPath": "datasets.md"
+          },
+          {
+            "title": "Skipping tests",
+            "permalink": "skipping-tests",
+            "contentPath": "skipping-tests.md"
+          },
+          {
+            "title": "Filtering tests",
+            "permalink": "filtering-tests",
+            "contentPath": "filtering-tests.md"
+          },
+          {
+            "title": "Coverage",
+            "permalink": "coverage",
+            "contentPath": "coverage.md"
+          }
+        ]
+      },
+      {
+        "name": "Extend",
+        "docs": [
+          {
+            "title": "Test context",
+            "permalink": "extend/test-context",
+            "contentPath": "extend/test-context.md"
+          },
+          {
+            "title": "Test",
+            "permalink": "extend/test",
+            "contentPath": "extend/test.md"
+          },
+          {
+            "title": "Group",
+            "permalink": "extend/group",
+            "contentPath": "extend/group.md"
+          },
+          {
+            "title": "Creating reporters",
+            "permalink": "extend/creating-reporters",
+            "contentPath": "extend/creating-reporters.md"
+          },
+          {
+            "title": "Creating plugins",
+            "permalink": "extend/creating-plugins",
+            "contentPath": "extend/creating-plugins.md"
+          }
+        ]
+      },
+      {
+        "name": "Plugins",
+        "docs": [
+          {
+            "title": "Spec reporter",
+            "permalink": "plugins/spec-reporter",
+            "contentPath": "plugins/spec-reporter.md"
+          },
+          {
+            "title": "Progress reporter",
+            "permalink": "plugins/progress-reporter",
+            "contentPath": "plugins/progress-reporter.md"
+          },
+          {
+            "title": "Assert",
+            "permalink": "plugins/assert",
+            "contentPath": "plugins/assert.md"
+          },
+          {
+            "title": "Expect",
+            "permalink": "plugins/expect",
+            "contentPath": "plugins/expect.md"
+          }
+        ]
+      },
+      {
+        "name": "More",
+        "docs": [
+          {
+            "title": "Using Playwright",
+            "permalink": "using-playwright",
+            "contentPath": "more/using-playwright.md"
+          },
+          {
+            "title": "Changelog",
+            "permalink": "changelog",
+            "contentPath": "more/changelog.md"
+          },
+          {
+            "title": "Github",
+            "permalink": "https://github.com/japa/core",
+            "contentPath": ""
+          }
+        ]
+      }
+    ]
+  }
+]
