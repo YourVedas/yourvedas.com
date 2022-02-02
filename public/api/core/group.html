@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AdonisJS - A fully featured web framework for Node.js</title><link rel="stylesheet" href="/assets/app.27f86206.css" />
+<script src="/assets/app.31d6cfe0.js" defer></script>
+  </head>
+  <body class="font-display antialiased text-gray-900">
+    <section><aside>
+  <div class="bg-gray-100 fixed top-0 bottom-0 overflow-scroll">
+    <div class="w-sidebar h-full">
+      <div class="px-8 pt-5 pb-3">
+        <a href="/">
+          <svg width="123" height="30" viewBox="0 0 123 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M122.905 0H0.000244141V30H122.905V0ZM73.5168 7.60339C75.1351 7.60339 76.4242 6.39653 76.4242 4.97025C76.4242 3.59882 75.2996 2.61139 73.6539 2.61139C72.0356 2.61139 70.7739 3.84568 70.7739 5.27196C70.7739 6.64339 71.8436 7.60339 73.5168 7.60339ZM66.0562 26.7485C69.7042 26.7485 70.9385 24.7188 71.8162 21.5097L75.5739 8.06967C74.8059 8.26167 73.5442 8.39882 72.0631 8.39882H68.5522L67.8116 11.224H68.9088C69.3202 11.224 69.4025 11.4982 69.1831 12.2388L66.7968 20.9611C66.2208 23.128 66.0013 23.5394 64.4653 23.6491C64.3008 23.6491 63.8345 23.6491 63.6699 23.5942L63.0391 26.008C64.2459 26.6937 65.2333 26.7485 66.0562 26.7485ZM40.2929 22.2502C42.0758 22.2502 43.5569 21.2902 44.5718 19.9462C44.7638 21.4548 45.8884 22.2502 47.9455 22.2502C48.9329 22.2502 49.8381 22.0857 50.7707 21.8662L51.4838 19.096C51.2095 19.1782 50.9901 19.2331 50.7432 19.2331C50.3867 19.2331 50.0849 19.0685 50.0849 18.5474C50.0849 18.2869 50.2052 17.9063 50.3505 17.4461C50.3888 17.3248 50.4289 17.1979 50.4689 17.0662L54.1444 3.2971C53.4038 3.4891 52.1421 3.65367 50.6609 3.65367H47.3421L46.6015 6.47882H47.3695C47.8358 6.47882 47.9181 6.72568 47.6987 7.57596L46.8758 10.456C46.4095 8.97482 45.1478 8.01482 43.4472 8.01482C38.7569 8.01482 35.8221 12.9245 35.8221 17.4228C35.8221 20.1931 37.5227 22.2502 40.2929 22.2502ZM42.5969 18.9862C41.6918 18.9862 41.0335 18.4377 41.0335 17.368C41.0335 14.5154 42.6518 11.2514 44.4072 11.2514C45.3398 11.2514 45.9432 11.9371 45.9432 12.8422C45.9432 15.5302 44.4072 18.9862 42.5969 18.9862ZM8.42361 8.39882C9.90475 8.39882 11.1665 8.26167 11.907 8.06967L11.0842 11.032C12.4282 9.0571 14.1562 8.01482 16.4328 8.01482C18.5173 8.01482 20.0808 9.08453 20.0808 11.0045C20.0808 12.2577 19.3744 14.2172 18.7787 15.8698C18.3443 17.0747 17.9688 18.1165 17.9688 18.6022C17.9688 19.0685 18.1882 19.2331 18.5722 19.2331C18.819 19.2331 19.0385 19.1782 19.2853 19.096L18.5722 21.8662C17.6396 22.1405 16.6248 22.2502 15.6648 22.2502C13.5253 22.2502 12.3185 21.5371 12.3185 19.5074C12.3185 18.5057 12.9232 16.7817 13.4633 15.2416C13.8994 13.9985 14.2933 12.8753 14.2933 12.3485C14.2933 11.7725 13.9093 11.4708 13.3333 11.4708C11.4682 11.4708 10.0693 15.256 8.31389 21.8662H3.04761L5.68075 12.2388C5.87275 11.4708 5.79046 11.224 5.37904 11.224H4.30932L5.04989 8.39882H8.42361ZM25.6438 17.4228C25.6438 18.4651 26.1923 19.1782 27.3992 19.1782C29.5112 19.1782 30.5535 14.4331 30.5535 12.8422C30.5535 11.8274 29.9775 11.1142 28.8255 11.1142C26.7135 11.1142 25.6438 15.8045 25.6438 17.4228ZM35.5455 14.2137C35.5455 18.7668 32.1718 22.2502 27.5912 22.2502C23.5043 22.2502 20.6518 20.0011 20.6518 15.9142C20.6518 11.3885 23.8883 8.01482 28.4963 8.01482C32.6106 8.01482 35.5455 10.1542 35.5455 14.2137ZM66.5232 13.144C66.5232 14.1314 66.3312 15.2285 65.9197 16.1611H57.4443C57.4254 16.331 57.4325 16.4749 57.4388 16.6018C57.4417 16.6591 57.4443 16.7133 57.4443 16.7645C57.4443 18.4377 58.6786 19.0411 60.1049 19.0411C61.6957 19.0411 62.6009 18.4377 63.4786 17.6971L65.3437 19.9737C63.7803 21.6468 61.7506 22.2777 59.3369 22.2777C55.1677 22.2777 52.3975 20.1657 52.3975 16.5177C52.3975 11.7177 55.5243 8.01482 60.5986 8.01482C64.85 8.01482 66.5232 10.3462 66.5232 13.144ZM62.1346 12.376C62.1346 11.5257 61.8055 10.9222 60.7906 10.9222C59.666 10.9222 58.8706 11.5257 58.1026 13.7748H61.9152C62.0523 13.336 62.1346 12.8422 62.1346 12.376ZM80.1658 17.4228C80.1658 18.4651 80.7144 19.1782 81.9212 19.1782C84.0332 19.1782 85.0755 14.4331 85.0755 12.8422C85.0755 11.8274 84.4995 11.1142 83.3475 11.1142C81.2355 11.1142 80.1658 15.8045 80.1658 17.4228ZM90.0675 14.2137C90.0675 18.7668 86.6938 22.2502 82.1132 22.2502C78.0264 22.2502 75.1738 20.0011 75.1738 15.9142C75.1738 11.3885 78.4104 8.01482 83.0184 8.01482C87.1327 8.01482 90.0675 10.1542 90.0675 14.2137ZM89.6361 21.8662H94.0795C94.2167 21.5097 94.683 20.4125 95.1492 19.4251C95.5881 21.208 97.2064 22.2502 99.3184 22.2502C103.954 22.2502 106.422 17.5051 106.422 13.0891C106.422 10.2365 104.859 8.01482 101.842 8.01482C100.388 8.01482 99.1812 8.70053 98.2487 9.71539L99.9767 3.2971C99.2361 3.4891 97.947 3.65367 96.4658 3.65367H93.0921L92.3515 6.47882H93.2567C93.6681 6.47882 93.7504 6.69825 93.531 7.49367L89.6361 21.8662ZM97.8647 18.9862C96.9321 18.9862 96.3561 18.328 96.3287 17.3954C96.3012 14.7074 97.755 11.2514 99.6201 11.2514C100.525 11.2514 101.129 11.8274 101.156 12.8971C101.211 15.7497 99.6475 18.9862 97.8647 18.9862ZM118.469 17.0937C118.469 20.1931 115.973 22.2502 111.887 22.2502C109.363 22.2502 107.443 21.7291 105.66 20.8788L106.511 17.6971H109.665L109.226 19.3428C109.72 19.5897 110.433 19.7817 111.365 19.7817C112.627 19.7817 113.285 19.3428 113.285 18.6845C113.285 17.9254 112.632 17.6799 111.282 17.1726C111.168 17.13 111.05 17.0856 110.927 17.0388C109.253 16.3805 107.498 15.3931 107.498 13.1714C107.498 10.1817 110.021 8.01482 113.944 8.01482C115.891 8.01482 118.168 8.45368 119.594 9.33139L118.799 12.4308H115.617L116.056 10.84C115.644 10.648 115.068 10.5382 114.437 10.5382C113.395 10.5382 112.655 11.032 112.655 11.6902C112.655 12.3542 113.19 12.5595 114.276 12.9762C114.491 13.0587 114.728 13.1494 114.986 13.2537C116.769 13.9668 118.469 15.0914 118.469 17.0937Z" fill="#F33330"/></svg>
+        </a>
+      </div>
+
+      <div class="mt-4">
+
+
+
+
+
+                  <div class="px-8 py-6">
+                      <h3 class="text-sm uppercase tracking-wider text-gray-900 mb-3">
+                        Core
+                      </h3>
+
+                    <ul>
+                        <li><a
+  href="/api/core/overview"
+  class="text-base tracking-wide inline-block py-1 px-2 -ml-2 border-2 border-transparent text-gray-700 hover:text-gray-900"
+  >
+  Overview
+</a>
+
+                        </li>
+                        <li><a
+  href="/api/core/test"
+  class="text-base tracking-wide inline-block py-1 px-2 -ml-2 border-2 border-transparent text-gray-700 hover:text-gray-900"
+  >
+  Test
+</a>
+
+                        </li>
+                        <li><a
+  href="/api/core/group"
+  class="text-base tracking-wide inline-block py-1 px-2 -ml-2 border-2 border-tomato-600 text-gray-900 hover:text-gray-900"
+  >
+  Group
+</a>
+
+                        </li>
+                        <li><a
+  href="/api/core/suite"
+  class="text-base tracking-wide inline-block py-1 px-2 -ml-2 border-2 border-transparent text-gray-700 hover:text-gray-900"
+  >
+  Suite
+</a>
+
+                        </li>
+                        <li><a
+  href="/api/core/runner"
+  class="text-base tracking-wide inline-block py-1 px-2 -ml-2 border-2 border-transparent text-gray-700 hover:text-gray-900"
+  >
+  Runner
+</a>
+
+                        </li>
+                        <li><a
+  href="/api/core/emitter"
+  class="text-base tracking-wide inline-block py-1 px-2 -ml-2 border-2 border-transparent text-gray-700 hover:text-gray-900"
+  >
+  Emitter
+</a>
+
+                        </li>
+                        <li><a
+  href="/api/core/refiner"
+  class="text-base tracking-wide inline-block py-1 px-2 -ml-2 border-2 border-transparent text-gray-700 hover:text-gray-900"
+  >
+  Refiner
+</a>
+
+                        </li>
+                        <li><a
+  href="/api/core/test-context"
+  class="text-base tracking-wide inline-block py-1 px-2 -ml-2 border-2 border-transparent text-gray-700 hover:text-gray-900"
+  >
+  Test Context
+</a>
+
+                        </li>
+                    </ul>
+                  </div>
+                  <div class="px-8 py-6">
+                      <h3 class="text-sm uppercase tracking-wider text-gray-900 mb-3">
+                        Assert
+                      </h3>
+
+                    <ul>
+                    </ul>
+                  </div>
+                  <div class="px-8 py-6">
+                      <h3 class="text-sm uppercase tracking-wider text-gray-900 mb-3">
+                        Runner
+                      </h3>
+
+                    <ul>
+                    </ul>
+                  </div>
+      </div>
+    </div>
+  </div>
+</aside>
+
+
+      <div class="ml-sidebar relative">
+        <div class="min-h-screen shadow bg-white">
+          <header class="fixed top-0 left-0 right-0 ml-sidebar bg-white">
+            <div class="pl-20 pr-12 py-2.5 shadow-border">
+              <ul class="flex space-x-8">
+                  <li>
+                    <a
+                      href="/introduction"
+                      class="text-gray-700 text-tiny uppercase tracking-wider block py-3"
+                    >
+                      Guides
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="/api/core/overview"
+                      class="text-gray-700 text-tiny uppercase tracking-wider block py-3"
+                    >
+                      API
+                    </a>
+                  </li>
+
+                <li>
+                  <a href="" class="text-gray-700 text-tiny uppercase tracking-wider block py-3">
+                    Github
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </header>
+
+          <main class="mt-[62px]">
+            <div class="pl-20 pr-12 pt-16 pb-8">
+              <div class="max-w-article font-body prose prose-xl prose-h1:text-tomato-600 prose-h1:text-5xl prose-h1:mb-2 prose-h2:text-3xl prose-headings:font-normal prose-headings:font-display prose-h3:text-2xl prose-h2:border-t prose-h2:border-gray-200 prose-h2:pt-8"><h1 id="group-class"><a
+  href="#group-class"
+  
+  
+><span class="icon icon-link"></span></a>
+Group class</h1>
+<p>The Group class exposes the API to create a group of tests and bulk configure them.</p>
+<p>You can create a new instance of the group class as follows.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #C678DD;">import</span><span style="color: #ABB2BF;"> { </span><span style="color: #E06C75;">Group</span><span style="color: #ABB2BF;">, </span><span style="color: #E06C75;">Emitter</span><span style="color: #ABB2BF;">, </span><span style="color: #E06C75;">Refiner</span><span style="color: #ABB2BF;"> } </span><span style="color: #C678DD;">from</span><span style="color: #ABB2BF;"> </span><span style="color: #98C379;">&#x27;@japa/core&#x27;</span>
+</div><div class="line">
+</div><div class="line"><span style="color: #C678DD;">const</span><span style="color: #ABB2BF;"> </span><span style="color: #E5C07B;">emitter</span><span style="color: #ABB2BF;"> </span><span style="color: #56B6C2;">=</span><span style="color: #ABB2BF;"> </span><span style="color: #C678DD;">new</span><span style="color: #ABB2BF;"> </span><span style="color: #61AFEF;">Emitter</span><span style="color: #ABB2BF;">()</span>
+</div><div class="line"><span style="color: #C678DD;">const</span><span style="color: #ABB2BF;"> </span><span style="color: #E5C07B;">refiner</span><span style="color: #ABB2BF;"> </span><span style="color: #56B6C2;">=</span><span style="color: #ABB2BF;"> </span><span style="color: #C678DD;">new</span><span style="color: #ABB2BF;"> </span><span style="color: #61AFEF;">Refiner</span><span style="color: #ABB2BF;">({})  </span>
+</div><div class="line">
+</div><div class="line"><span style="color: #C678DD;">const</span><span style="color: #ABB2BF;"> </span><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;"> </span><span style="color: #56B6C2;">=</span><span style="color: #ABB2BF;"> </span><span style="color: #C678DD;">new</span><span style="color: #ABB2BF;"> </span><span style="color: #61AFEF;">Group</span><span style="color: #ABB2BF;">(</span><span style="color: #98C379;">&#x27;Math.add&#x27;</span><span style="color: #ABB2BF;">, </span><span style="color: #E06C75;">emitter</span><span style="color: #ABB2BF;">, </span><span style="color: #E06C75;">refiner</span><span style="color: #ABB2BF;">)</span>
+</div></code></pre>
+</div>
+
+<p>A group needs the following constructor arguments.</p>
+<ul>
+<li><code>title</code>: The title for the group. The developer writing the tests will usually supply the group title.</li>
+<li><code>emitter</code>: A global instance of the Emitter. Make sure you use only one emitter instance throughout the complete cycle of running tests.</li>
+<li><code>refiner</code>: A global instance of the Refiner class. The refiner is used to cherry-pick tests and groups to run specific tests only.</li>
+</ul>
+<h2 id="add"><a
+  href="#add"
+  
+  
+><span class="icon icon-link"></span></a>
+add()</h2>
+<p>The <code>add</code> method allows you to add a test to the group.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #C678DD;">const</span><span style="color: #ABB2BF;"> </span><span style="color: #E5C07B;">test</span><span style="color: #ABB2BF;"> </span><span style="color: #56B6C2;">=</span><span style="color: #ABB2BF;"> </span><span style="color: #C678DD;">new</span><span style="color: #ABB2BF;"> </span><span style="color: #61AFEF;">Test</span><span style="color: #ABB2BF;">(</span><span style="color: #E06C75;">title</span><span style="color: #ABB2BF;">, </span><span style="color: #E06C75;">getContext</span><span style="color: #ABB2BF;">, </span><span style="color: #E06C75;">emitter</span><span style="color: #ABB2BF;">, </span><span style="color: #E06C75;">refiner</span><span style="color: #ABB2BF;">)</span>
+</div><div class="line">
+</div><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">add</span><span style="color: #ABB2BF;">(</span><span style="color: #E06C75;">test</span><span style="color: #ABB2BF;">)</span>
+</div></code></pre>
+</div>
+
+<h2 id="tap"><a
+  href="#tap"
+  
+  
+><span class="icon icon-link"></span></a>
+tap()</h2>
+<p>The <code>tap</code> method allows you to access tests added to the group. The <code>tap</code> method must be called before calling the <code>add</code> method.</p>
+<p>All tests will have the <code>@slow</code> tag in the following example.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">tap</span><span style="color: #ABB2BF;">((</span><span style="color: #E06C75;">test</span><span style="color: #ABB2BF;">) </span><span style="color: #C678DD;">=&gt;</span><span style="color: #ABB2BF;"> {</span>
+</div><div class="line"><span style="color: #ABB2BF;">  </span><span style="color: #E5C07B;">test</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">tags</span><span style="color: #ABB2BF;">([</span><span style="color: #98C379;">&#x27;@slow&#x27;</span><span style="color: #ABB2BF;">])</span>
+</div><div class="line"><span style="color: #ABB2BF;">})</span>
+</div><div class="line">
+</div><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">add</span><span style="color: #ABB2BF;">(</span><span style="color: #E06C75;">test</span><span style="color: #ABB2BF;">)</span>
+</div></code></pre>
+</div>
+
+<h2 id="setup"><a
+  href="#setup"
+  
+  
+><span class="icon icon-link"></span></a>
+setup()</h2>
+<p>Define the setup hook for the group.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">setup</span><span style="color: #ABB2BF;">(() </span><span style="color: #C678DD;">=&gt;</span><span style="color: #ABB2BF;"> {</span>
+</div><div class="line"><span style="color: #ABB2BF;">  </span><span style="color: #7F848E;">// called before all the tests inside the group</span>
+</div><div class="line"><span style="color: #ABB2BF;">})</span>
+</div></code></pre>
+</div>
+
+<h2 id="teardown"><a
+  href="#teardown"
+  
+  
+><span class="icon icon-link"></span></a>
+teardown()</h2>
+<p>Define the teardown hook for the group.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">teardown</span><span style="color: #ABB2BF;">(() </span><span style="color: #C678DD;">=&gt;</span><span style="color: #ABB2BF;"> {</span>
+</div><div class="line"><span style="color: #ABB2BF;">  </span><span style="color: #7F848E;">// called after all the tests inside the group</span>
+</div><div class="line"><span style="color: #ABB2BF;">})</span>
+</div></code></pre>
+</div>
+
+<h2 id="exec"><a
+  href="#exec"
+  
+  
+><span class="icon icon-link"></span></a>
+exec()</h2>
+<p>Execute all the tests inside the group. Ideally, you will not call this method manually, as the tests runner class invokes it.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #C678DD;">await</span><span style="color: #ABB2BF;"> </span><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">exec</span><span style="color: #ABB2BF;">()</span>
+</div></code></pre>
+</div>
+
+<h2 id="eachsetup"><a
+  href="#eachsetup"
+  
+  
+><span class="icon icon-link"></span></a>
+each.setup()</h2>
+<p>Define the setup hook for all the tests inside the group. Remember to call this method before adding the tests to the group.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #E5C07B;">each</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">setup</span><span style="color: #ABB2BF;">(</span><span style="color: #C678DD;">async</span><span style="color: #ABB2BF;"> () </span><span style="color: #C678DD;">=&gt;</span><span style="color: #ABB2BF;"> {</span>
+</div><div class="line"><span style="color: #ABB2BF;"> </span><span style="color: #7F848E;">// called before each test</span>
+</div><div class="line"><span style="color: #ABB2BF;">})</span>
+</div><div class="line">
+</div><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">add</span><span style="color: #ABB2BF;">(</span><span style="color: #E06C75;">test</span><span style="color: #ABB2BF;">)</span>
+</div></code></pre>
+</div>
+
+<h2 id="eachteardown"><a
+  href="#eachteardown"
+  
+  
+><span class="icon icon-link"></span></a>
+each.teardown()</h2>
+<p>Define the teardown hook for all the tests inside the group. Remember to call this method before adding the tests to the group.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #E5C07B;">each</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">teardown</span><span style="color: #ABB2BF;">(</span><span style="color: #C678DD;">async</span><span style="color: #ABB2BF;"> () </span><span style="color: #C678DD;">=&gt;</span><span style="color: #ABB2BF;"> {</span>
+</div><div class="line"><span style="color: #ABB2BF;"> </span><span style="color: #7F848E;">// called after each test</span>
+</div><div class="line"><span style="color: #ABB2BF;">})</span>
+</div><div class="line">
+</div><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">add</span><span style="color: #ABB2BF;">(</span><span style="color: #E06C75;">test</span><span style="color: #ABB2BF;">)</span>
+</div></code></pre>
+</div>
+
+<h2 id="eachtimeout"><a
+  href="#eachtimeout"
+  
+  
+><span class="icon icon-link"></span></a>
+each.timeout()</h2>
+<p>Define the timeout for all the tests inside the group. Consider this method as a shorthand for using the <code>tap</code> method.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #E5C07B;">each</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">timeout</span><span style="color: #ABB2BF;">(</span><span style="color: #D19A66;">0</span><span style="color: #ABB2BF;">)</span>
+</div><div class="line">
+</div><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">add</span><span style="color: #ABB2BF;">(</span><span style="color: #E06C75;">test</span><span style="color: #ABB2BF;">)</span>
+</div></code></pre>
+</div>
+
+<h2 id="eachdisabletimeout"><a
+  href="#eachdisabletimeout"
+  
+  
+><span class="icon icon-link"></span></a>
+each.disableTimeout()</h2>
+<p>Disable timeouts for all the tests inside the group. Consider this method as a shorthand for using the <code>tap</code> method.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #E5C07B;">each</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">disableTimeout</span><span style="color: #ABB2BF;">()</span>
+</div><div class="line">
+</div><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">add</span><span style="color: #ABB2BF;">(</span><span style="color: #E06C75;">test</span><span style="color: #ABB2BF;">)</span>
+</div></code></pre>
+</div>
+
+<h2 id="eachretry"><a
+  href="#eachretry"
+  
+  
+><span class="icon icon-link"></span></a>
+each.retry()</h2>
+<p>Define the retries for all the tests inside the group. Consider this method as a shorthand for using the <code>tap</code> method.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #E5C07B;">each</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">retry</span><span style="color: #ABB2BF;">(</span><span style="color: #D19A66;">3</span><span style="color: #ABB2BF;">)</span>
+</div><div class="line">
+</div><div class="line"><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">add</span><span style="color: #ABB2BF;">(</span><span style="color: #E06C75;">test</span><span style="color: #ABB2BF;">)</span>
+</div></code></pre>
+</div>
+
+<h2 id="tests"><a
+  href="#tests"
+  
+  
+><span class="icon icon-link"></span></a>
+tests</h2>
+<p>A reference to the array of tests added to the group.</p>
+<div x-data="copyToClipboard" class="dimer-highlight not-prose">
+
+
+<pre><code><div class="line"><span style="color: #E5C07B;">console</span><span style="color: #ABB2BF;">.</span><span style="color: #61AFEF;">log</span><span style="color: #ABB2BF;">(</span><span style="color: #E5C07B;">group</span><span style="color: #ABB2BF;">.</span><span style="color: #E06C75;">tests</span><span style="color: #ABB2BF;">)</span>
+</div></code></pre>
+</div>
+              </div>
+            </div>
+
+              <div class="fixed right-0 top-[62px]">
+                <span class="bg-line absolute top-0 bottom-0 left-0 w-[1px]"></span>
+                <div class="px-12 w-sidebar py-12">
+                  <h3 class="text-sm uppercase tracking-wider text-gray-900 mb-3">
+                    On this page
+                  </h3>
+
+                  <ul class="text-gray-700 text-sm toc tracking-wide">
+<li>
+<p><a
+  href="#group-class"
+  
+  
+>Group class</a>
+</p>
+<ul>
+<li><a
+  href="#add"
+  
+  
+>add()</a>
+</li>
+<li><a
+  href="#tap"
+  
+  
+>tap()</a>
+</li>
+<li><a
+  href="#setup"
+  
+  
+>setup()</a>
+</li>
+<li><a
+  href="#teardown"
+  
+  
+>teardown()</a>
+</li>
+<li><a
+  href="#exec"
+  
+  
+>exec()</a>
+</li>
+<li><a
+  href="#eachsetup"
+  
+  
+>each.setup()</a>
+</li>
+<li><a
+  href="#eachteardown"
+  
+  
+>each.teardown()</a>
+</li>
+<li><a
+  href="#eachtimeout"
+  
+  
+>each.timeout()</a>
+</li>
+<li><a
+  href="#eachdisabletimeout"
+  
+  
+>each.disableTimeout()</a>
+</li>
+<li><a
+  href="#eachretry"
+  
+  
+>each.retry()</a>
+</li>
+<li><a
+  href="#tests"
+  
+  
+>tests</a>
+</li>
+</ul>
+</li>
+                  </ul>
+                </div>
+              </div>
+          </main>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
