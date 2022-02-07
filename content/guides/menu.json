@@ -6,117 +6,42 @@
         "name": "root",
         "docs": [
           {
-            "title": "Introduction",
+            "title": "Love and Death",
             "permalink": "index",
-            "contentPath": "introduction.md"
+            "contentPath": "love-and-death.md"
           },
           {
-            "title": "Writing the first test",
-            "permalink": "first-test",
-            "contentPath": "first-test.md"
-          },
-          {
-            "title": "TypeScript and ESM support",
+            "title": "Something 02",
             "permalink": "esm-and-ts-support",
             "contentPath": "esm-and-ts-support.md"
-          },
-          {
-            "title": "Testing asynchronous code",
-            "permalink": "testing-async-code",
-            "contentPath": "testing-async-code.md"
-          },
-          {
-            "title": "Grouping tests",
-            "permalink": "grouping-tests",
-            "contentPath": "grouping-tests.md"
-          },
-          {
-            "title": "Assertions",
-            "permalink": "assertions",
-            "contentPath": "assertions.md"
-          },
-          {
-            "title": "Expectations",
-            "permalink": "expectations",
-            "contentPath": "expectations.md"
-          },
-          {
-            "title": "Lifecycle hooks",
-            "permalink": "lifecycle-hooks",
-            "contentPath": "lifecycle-hooks.md"
-          },
-          {
-            "title": "Datasets",
-            "permalink": "datasets",
-            "contentPath": "datasets.md"
-          },
-          {
-            "title": "Skipping tests",
-            "permalink": "skipping-tests",
-            "contentPath": "skipping-tests.md"
-          },
-          {
-            "title": "Filtering tests",
-            "permalink": "filtering-tests",
-            "contentPath": "filtering-tests.md"
-          },
-          {
-            "title": "Coverage",
-            "permalink": "coverage",
-            "contentPath": "coverage.md"
           }
         ]
       },
       {
-        "name": "Extend",
+        "name": "Heading 02",
         "docs": [
           {
-            "title": "Test context",
+            "title": "Something 03",
             "permalink": "extend/test-context",
             "contentPath": "extend/test-context.md"
           },
           {
-            "title": "Test",
-            "permalink": "extend/test",
-            "contentPath": "extend/test.md"
-          },
-          {
-            "title": "Group",
-            "permalink": "extend/group",
-            "contentPath": "extend/group.md"
-          },
-          {
-            "title": "Creating reporters",
-            "permalink": "extend/creating-reporters",
-            "contentPath": "extend/creating-reporters.md"
-          },
-          {
-            "title": "Creating plugins",
+            "title": "Something 04",
             "permalink": "extend/creating-plugins",
             "contentPath": "extend/creating-plugins.md"
           }
         ]
       },
       {
-        "name": "Plugins",
+        "name": "Heading 03",
         "docs": [
           {
-            "title": "Spec reporter",
+            "title": "Something 05",
             "permalink": "plugins/spec-reporter",
             "contentPath": "plugins/spec-reporter.md"
           },
           {
-            "title": "Progress reporter",
-            "permalink": "plugins/progress-reporter",
-            "contentPath": "plugins/progress-reporter.md"
-          },
-          {
-            "title": "Assert",
-            "permalink": "plugins/assert",
-            "contentPath": "plugins/assert.md"
-          },
-          {
-            "title": "Expect",
+            "title": "Something 06",
             "permalink": "plugins/expect",
             "contentPath": "plugins/expect.md"
           }
@@ -126,19 +51,14 @@
         "name": "More",
         "docs": [
           {
-            "title": "Using Playwright",
+            "title": "Something 07",
             "permalink": "using-playwright",
             "contentPath": "more/using-playwright.md"
           },
           {
-            "title": "Changelog",
+            "title": "Something 08",
             "permalink": "changelog",
             "contentPath": "more/changelog.md"
-          },
-          {
-            "title": "Github",
-            "permalink": "https://github.com/japa/core",
-            "contentPath": ""
           }
         ]
       }
