@@ -1,1 +1,0 @@
-import{_ as a,o as r,c as t,a as e,d as c}from"./app.28090a62.js";const o={},s=e("h1",{id:"author-s-preface",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#author-s-preface","aria-hidden":"true"},"#"),c(" Author's Preface")],-1),_=[s];function n(h,d){return r(),t("div",null,_)}const i=a(o,[["render",n],["__file","Author's Preface.html.vue"]]);export{i as default};
