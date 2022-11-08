@@ -10,6 +10,3 @@ actions:
     type: secondary
 
 footer: A public-domain work. Brought to you by @planetabhi 🙏
-
-
-
