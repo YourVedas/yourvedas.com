@@ -1,12 +1,11 @@
 {
   "name": "your-vedas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sacred books of the east.",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
@@ -19,6 +18,7 @@
   },
   "homepage": "https://github.com/Your-Vedas/vedas#readme",
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.27"
+    "@sargamdesign/colors": "^1.2.2",
+    "vuepress": "^2.0.0-beta.53"
   }
 }
