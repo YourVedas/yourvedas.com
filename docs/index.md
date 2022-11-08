@@ -2,7 +2,7 @@
 lang: en-US
 home: true
 title: Your Vedas
-description: Sacred books of the east.
+description: 
 heroImage: /images/cover.png
 actions:
   - text: Explore Library
