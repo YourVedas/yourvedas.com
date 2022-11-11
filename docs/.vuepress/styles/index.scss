@@ -379,3 +379,7 @@ border-radius: 0px;
 transition: background-color var(--t-color);
 box-sizing: border-box;
 }
+
+p, ul, ol {  line-height: 32px;
+            font-size: 20px;
+}
