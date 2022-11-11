@@ -1,6 +1,7 @@
 ---
 lang: en-US
-title: Your Vedas
+title: The Relation of the Individual to the Universe
+
 description: Sacred books of the east.
 ---
 

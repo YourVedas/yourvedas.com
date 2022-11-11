@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Your Vedas
+title: Soul Consciousness
 description: Sacred books of the east.
 ---
 

@@ -1,3 +1,18 @@
+@charset "utf-8";
+@font-face {
+  font-family: "et-roman";
+  src: url('/fonts/et-roman.woff2') format('woff2'), url('/fonts/et-roman.woff') format('woff');
+}    
+@font-face {
+  font-family: "et-italic";
+  src: url('/fonts/et-italic.woff2') format('woff2'), url('/fonts/et-italic.woff') format('woff');
+}
+@font-face {
+  font-family: "et-bold";
+  src: url('/fonts/et-bold.woff2') format('woff2'), url('/fonts/et-bold.woff') format('woff');
+}
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+  
 :root {
   scroll-behavior: smooth;
 
@@ -59,6 +74,50 @@
   --green2: #BDE6CA;
   --green1: #F6FBF7;
 
+ // default tokens
+  --text-success: var(--green6);
+  --text-error: var(--red6);
+  --text-on-color: var(--silver1);
+  --text-placeholder: var(--silver5);
+  --text-secondary: var(--silver6);
+  --text-primary-alt: var(--silver7);
+  --text-primary: var(--silver8);
+  --support-info: var(--teal5);
+  --support-success: var(--green5);
+  --support-warning: var(--yellow5);
+  --support-error: var(--red5);
+  --link-muted: var(--silver8);
+  --link-visited: var(--lavender6);
+  --link-subtle: var(--teal5);
+  --link-hover: var(--teal7);
+  --link: var(--teal6);
+  --icon-on-color: var(--silver1);
+  --icon-disabled: var(--silver5);
+  --icon-secondary: var(--silver6);
+  --icon-primary: var(--silver7);
+  --button-disabled-alt: var(--silver4);
+  --button-disabled: var(--silver5);
+  --button-danger-active: var(--red7);
+  --button-danger-hover: var(--red6);
+  --button-danger: var(--red5);
+  --button-secondary-active: var(--silver6);
+  --button-secondary-hover: var(--silver7);
+  --button-secondary: var(--silver8);
+  --button-primary-active: var(--teal7);
+  --button-primary-hover: var(--teal6);
+  --button-primary: var(--teal5);
+  --border-strong: var(--silver6);
+  --border-default: var(--silver5);
+  --border-muted: var(--silver3);
+  --background-pink: var(--pink1);
+  --background-lavender: var(--lavender1);
+  --background-teal: var(--teal1);
+  --background-green: var(--green1);
+  --background-yellow: var(--yellow1);
+  --background-red: var(--red1);
+  --background-selected: var(--silver3);
+  --background-subtle: var(--silver2);
+  --background: var(--silver1);
 
   --c-brand: var(--red5);
   --c-brand-light: var(--red5);
@@ -117,9 +176,7 @@
   --code-ln-wrapper-width: 3.5rem;
 
   // font vars
-  --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
-    Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-  --font-family-code: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  --font-family: 'et-roman', sans-serif;
 
   // layout vars
   --navbar-height: 3.6rem;
@@ -194,6 +251,52 @@
 
 
 html.dark {
+
+// dark tokens
+--text-success: var(--green4);
+  --text-error: var(--red4);
+  --text-on-color: var(--silver1);
+  --text-placeholder: var(--silver5);
+  --text-secondary: var(--silver6);
+  --text-primary-alt: var(--silver4);
+  --text-primary: var(--silver1);
+  --support-info: var(--teal4);
+  --support-success: var(--green4);
+  --support-warning: var(--yellow4);
+  --support-error: var(--red4);
+  --link-muted: var(--silver1);
+  --link-visited: var(--lavender4);
+  --link-subtle: var(--teal5);
+  --link-hover: var(--teal6);
+  --link: var(--teal4);
+  --icon-on-color: var(--silver8);
+  --icon-disabled: var(--silver6);
+  --icon-secondary: var(--silver5);
+  --icon-primary: var(--silver3);
+  --button-disabled-alt: var(--silver7);
+  --button-disabled: var(--silver6);
+  --button-danger-active: var(--red2);
+  --button-danger-hover: var(--red3);
+  --button-danger: var(--red4);
+  --button-secondary-active: var(--silver7);
+  --button-secondary-hover: var(--silver7);
+  --button-secondary: var(--silver6);
+  --button-primary-active: var(--teal2);
+  --button-primary-hover: var(--teal3);
+  --button-primary: var(--teal4);
+  --border-strong: var(--silver5);
+  --border-default: var(--silver6);
+  --border-muted: var(--silver7);
+  --background-pink: var(--pink8);
+  --background-lavender: var(--lavender8);
+  --background-teal: var(--teal8);
+  --background-green: var(--green8);
+  --background-yellow: var(--yellow8);
+  --background-red: var(--red8);
+  --background-selected: var(--silver6);
+  --background-subtle: var(--silver7);
+  --background: var(--silver8);
+
   // brand colors
   --c-brand: var(--red4);
   --c-brand-light: var(--red4);
@@ -246,4 +349,33 @@ html.dark .DocSearch {
   #docsearch-container:lang(zh-CN) {
     min-width: 184.66px;
   }
+}
+
+
+// custom
+
+.home .hero .description {  max-width: 56rem;
+                            font-size: 1.6rem;
+                            line-height: 1.3;
+                            color: var(--text-secondary);
+                            font-family: 'et-italic', serif; }
+
+.navbar-items a {   font-family: 'Rubik', sans-serif;
+                    color: var(--text-secondary); }
+
+.home .footer {   font-family: 'Rubik', sans-serif;
+                  border-top: 1px solid var(--c-border);
+                  text-align: center;
+                  color: var(--text-secondary);
+                  font-size: 1rem;
+}
+
+.home .hero .action-button { font-family: 'Rubik', sans-serif;
+font-size: 1.2rem;
+padding: 0.8rem 1.6rem;
+border-width: 2px;
+border-style: solid;
+border-radius: 0px;
+transition: background-color var(--t-color);
+box-sizing: border-box;
 }

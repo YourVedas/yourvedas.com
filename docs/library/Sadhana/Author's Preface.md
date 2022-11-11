@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Your Vedas
+title: Author's Preface
 description: Sacred books of the east.
 ---
 

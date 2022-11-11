@@ -1,6 +1,6 @@
 ---
 lang: en-US
-title: Your Vedas
+title: The Problem of Evil
 description: Sacred books of the east.
 ---
 
