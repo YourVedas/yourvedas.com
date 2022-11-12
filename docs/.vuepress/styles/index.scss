@@ -251,7 +251,6 @@
 
 
 html.dark {
-
 // dark tokens
 --text-success: var(--green4);
   --text-error: var(--red4);
@@ -380,6 +379,15 @@ transition: background-color var(--t-color);
 box-sizing: border-box;
 }
 
+.home .hero h1 { font-size: 2.4rem; color: var(--text-primary-alt);}
+
 p, ul, ol {  line-height: 32px;
             font-size: 20px;
+}
+
+.navbar .site-name {
+  font-size: 1.3rem;
+  font-weight: normal;
+  color: var(--text-primary-alt);
+  position: relative;
 }
