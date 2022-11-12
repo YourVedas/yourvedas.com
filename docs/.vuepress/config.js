@@ -9,6 +9,10 @@ export default {
         logo: './images/logo.png',
         navbar: [
           {
+            text: 'Library',
+            link: '/library',
+          },
+          {
             text: 'Vedas',
             link: '/vedas',
           },
@@ -43,10 +47,6 @@ export default {
           {
             text: 'Modern',
             link: '/modern',
-          },
-          {
-            text: 'Misc',
-            link: '/misc',
           },
         ],
       }),

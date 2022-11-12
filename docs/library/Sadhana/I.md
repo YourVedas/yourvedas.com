@@ -1,8 +1,15 @@
 ---
 lang: en-US
-title: The Relation of the Individual to the Universe
-description: Sacred books of the east.
+title: Sadhana
+description: The Realisation of Life.
 sidebar: false
+author: Rabindranath Tagore
+prev:
+  text: Preface
+  link: ./preface.md
+next:
+  text: Soul Consciousness
+  link: ./II.md
 ---
 
 # I. The Relation of the Individual to the Universe 

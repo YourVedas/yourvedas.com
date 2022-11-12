@@ -6,12 +6,11 @@ sidebar: false
 author: Rabindranath Tagore
 ---
 
-# Sadhana
-The Realisation of Life.
-*By Rabindranath Tagore*
+# Sadhana—The Realisation of Life [1916]
+*—By Rabindranath Tagore*
 
 ### Contents
-- [Author's Preface](./Author's%20Preface.md)
+- [Author's Preface](./preface.md)
 - [I. The Relation of the Individual to the Universe](./I.md)
 - [II. Soul Consciousness](./II.md)
 - [III. The Problem of Evil](./III.md)
