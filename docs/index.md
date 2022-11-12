@@ -9,4 +9,12 @@ actions:
     link: /library/index.html
     type: secondary
 
-footer: A public-domain work. Brought to you by @planetabhi 🙏
+footer: A public-domain work. By Abhimanyu Rana; @planetabhi
+
+---
+
+---
+
+### Featured Books ✨
+- 📕 [Sadhana—The Realisation of Life](./library/Sadhana/index.md) <em>(1916)</em>
+- 📕 [Gitanjali—Song Offerings](./library/Gitanjali/index.md) <em>(1913)</em>

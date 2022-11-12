@@ -6,7 +6,7 @@ sidebar: false
 author: Rabindranath Tagore
 ---
 
-# Sadhana—The Realisation of Life [1916]
+# Sadhana—The Realisation of Life [1915]
 *—By Rabindranath Tagore*
 
 ### Contents
