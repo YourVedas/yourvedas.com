@@ -9,44 +9,40 @@ export default {
         logo: './images/logo.png',
         navbar: [
           {
-            text: 'Library',
-            link: '/library',
-          },
-          {
             text: 'Vedas',
-            link: '/vedas',
+            link: '/library/vedas',
           },
           {
             text: 'Upanishads',
-            link: '/upanishads',
+            link: '/library/upanishads',
           },
           {
             text: 'Puranas',
-            link: '/puranas',
+            link: '/library/puranas',
           },
           {
             text: 'Mahabharata',
-            link: '/mahabharata',
+            link: '/library/mahabharata',
           },
           {
             text: 'Ramayana',
-            link: '/ramayana',
+            link: '/library/ramayana',
           },
           {
             text: 'Bhagavad Gita',
-            link: '/bhagavad-gita',
+            link: '/library/bhagavad-gita',
           },
           {
             text: 'Vedanta',
-            link: '/vedanta',
+            link: '/library/vedanta',
           },
           {
             text: 'Later',
-            link: '/later',
+            link: '/library/later',
           },
           {
             text: 'Modern',
-            link: '/modern',
+            link: '/library/modern',
           },
         ],
       }),
