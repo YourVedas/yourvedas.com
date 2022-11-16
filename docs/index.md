@@ -15,6 +15,7 @@ footer: A public-domain work. By Abhimanyu Rana; @planetabhi
 
 ---
 
-### Featured Books ✨
+### Latest Additions ✨
 - 📕 [Sadhana—The Realisation of Life](./library/modern/Sadhana/index.md) <em>(1916)</em>
 - 📕 [Gitanjali—Song Offerings](./library/modern/Gitanjali/index.md) <em>(1913)</em>
+- 📕 [Thought Relics](./library/modern/thought-relics/index.md) <em>(1921)</em>
