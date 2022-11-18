@@ -12,6 +12,7 @@ sidebar: false
 
 - 📕 [Gitanjali—Song Offerings](./Gitanjali/index.md) <em>(1913)</em>
 - 📕 [Sadhana—The Realisation of Life](./Sadhana/index.md) <em>(1916)</em>
+- 📕 [Fruit Gathering](./fruit-gathering/index.md) <em>(1916)</em>
 - 📕 [Thought Relics](./thought-relics/index.md) <em>(1921)</em>
 
 
