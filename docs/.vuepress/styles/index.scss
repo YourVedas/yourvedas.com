@@ -369,6 +369,8 @@ h3 { font-family: "et-bold", serif; color: var(--text-primary-alt);}
 .navbar-items a {   font-family: 'Rubik', sans-serif;
                     color: var(--text-secondary); }
 
+.navbar-items .navbar-item > a:hover, .navbar-items .navbar-item > a.router-link-active { border-bottom: 1px solid var(--c-text-accent);}
+
 .home .footer {   font-family: 'Rubik', sans-serif;
                   border-top: 1px solid var(--c-border);
                   text-align: center;

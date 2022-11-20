@@ -6,4 +6,4 @@ sidebar: false
 ---
 
 # Mahabharata
- [work in progress]
+[Work In Progress]

@@ -6,4 +6,4 @@ sidebar: false
 ---
 
 # Later Books
- [work in progress]
+[work in progress]

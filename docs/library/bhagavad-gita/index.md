@@ -6,4 +6,4 @@ sidebar: false
 ---
 
 # Bhagavad Gita
- [work in progress]
+[Work In Progress]
