@@ -6,4 +6,4 @@ sidebar: false
 ---
 
 # Rig Veda
-WIP
+[Work In Progress]

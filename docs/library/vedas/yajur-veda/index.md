@@ -6,4 +6,4 @@ sidebar: false
 ---
 
 # Yajur Veda
-WIP
+[Work In Progress]

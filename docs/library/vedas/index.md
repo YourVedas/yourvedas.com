@@ -14,4 +14,4 @@ The Vedas contain hymns, incantations, and rituals from ancient India. Along wit
 - 📕 [Rig Veda](./rig-veda/index.md) <em>(c. 1500–1000 BCE)</em>
 - 📕 [Sama Veda](./sama-veda/index.md) <em>(c. 1200-1000 BCE)</em>
 - 📕 [Yajur Veda](./yajur-veda/index.md) <em>(c. 1200–800 BCE)</em>
-- 📕 [Atharva Veda](./atharva-veda/index.md) <em>(c. 1200–900 BCE[)</em>
+- 📕 [Atharva Veda](./atharva-veda/index.md) <em>(c. 1200–900 BCE)</em>
