@@ -124,247 +124,249 @@ The dry river-bed finds no thanks for its past.
 
 ### 35
 The bird wishes it were a cloud. The cloud wishes it were a bird.
-36
 
+### 36
 The waterfall sings, "I find my song, when I find my freedom."
-37
 
+### 37
 I cannot tell why this heart languishes in silence.
 It is for small needs it never asks, or knows or remembers.
-38
 
+### 38
 Woman, when you move about in your household service your limbs sing like a hill stream among its pebbles.
-39
 
+### 39
 The sun goes to cross the Western sea, leaving its last salutation to the East.
-40
 
+### 40
 Do not blame your food because you have no appetite.
-41
 
+### 41
 The trees, like the longings of the earth, stand a-tiptoe to peep at the heaven.
-42
 
+### 42
 You smiled and talked to me of nothing and I felt that for this I had been waiting long.
-43
 
+### 43
 The fish in the water is silent, the animal on the earth is noisy, the bird in the air is singing,
+
 But Man has in him the silence of the sea, the noise of the earth and the music of the air.
-44
 
+### 44
 The world rushes on over the strings of the lingering heart making the music of sadness.
-45
 
+### 45
 He has made his weapons his gods. When his weapons win he is defeated himself.
-46
 
+### 46
 God finds himself by creating.
-47
 
+### 47
 Shadow, with her veil drawn, follows Light in secret meekness, with her silent steps of love.
-48
 
+### 48
 The stars are not afraid to appear like fireflies.
-49
 
+### 49
 I thank thee that I am none of the wheels of power but I am one with the living creatures that are crushed by it.
-50
 
+### 50
 The mind, sharp but not broad, sticks at every point but does not move.
-51
 
+### 51
 Your idol is shattered in the dust to prove that God's dust is greater than your idol.
-52
 
+### 52
 Man does not reveal himself in his history, he struggles up through it.
-53
 
+### 53
 While the glass lamp rebukes the earthen for calling it cousin, the moon rises, and the glass lamp, with a bland smile, calls her, "My dear, dear sister."
-54
 
+### 54
 Like the meeting of the seagulls and the waves we meet and come near. The seagulls fly off, the waves roll away and we depart.
-55
 
+### 55
 My day is done, and I am like a boat drawn on the beach, listening to the dance-music of the tide in the evening.
-56
 
+### 56
 Life is given to us, we earn it by giving it.
-57
 
+### 57
 We come nearest to the great when we are great in humility.
-58
 
+### 58
 The sparrow is sorry for the peacock at the burden of its tail.
-59
 
+### 59
 Never be afraid of the moments--thus sings the voice of the everlasting.
-60
 
+### 60
 The hurricane seeks the shortest road by the no-road, and suddenly ends its search in the Nowhere.
-61
 
+### 61
 Take my wine in my own cup, friend. It loses its wreath of foam when poured into that of others.
-62
 
+### 62
 The Perfect decks itself in beauty for the love of the Imperfect.
-63
 
+### 63
 God says to man, "I heal you therefore I hurt, love you therefore punish."
-64
 
+### 64
 Thank the flame for its light, but do not forget the lampholder standing in the shade with constancy of patience.
-65
 
+### 65
 Tiny grass, your steps are small, but you possess the earth under your tread.
-66
 
+### 66
 The infant flower opens its bud and cries, "Dear World, please do not fade."
-67
 
+### 67
 God grows weary of great kingdoms, but never of little flowers.
-68
 
+### 68
 Wrong cannot afford defeat but Right can.
-69
 
+### 69
 "I give my whole water in joy," sings the waterfall, "though little of it is enough for the thirsty."
-70
 
+### 70
 Where is the fountain that throws up these flowers in a ceaseless outbreak of ecstasy?
-71
 
+### 71
 The woodcutter's axe begged for its handle from the tree. The tree gave it.
-72
 
+### 72
 In my solitude of heart I feel the sigh of this widowed evening veiled with mist and rain.
-73
 
+### 73
 Chastity is a wealth that comes from abundance of love.
-74
 
+### 74
 The mist, like love, plays upon the heart of the hills and brings out surprises of beauty.
-75
 
+### 75
 We read the world wrong and say that it deceives us.
-76
 
+### 76
 The poet wind is out over the sea and the forest to seek his own voice.
-77
 
+### 77
 Every child comes with the message that God is not yet discouraged of man.
-78
 
+### 78
 The grass seeks her crowd in the earth.
 The tree seeks his solitude of the sky.
-79
 
+### 79
 Man barricades against himself.
-80
 
+### 80
 Your voice, my friend, wanders in my heart, like the muffled sound of the sea among these listening pines.
-81
 
+### 81
 What is this unseen flame of darkness whose sparks are the stars?
-82
 
+### 82
 Let life be beautiful like summer flowers and death like autumn leaves.
-88
 
+### 88
 He who wants to do good knocks at the gate; he who loves finds the gate open.
-84
 
+### 84
 In death the many becomes one; in life the one becomes many. Religion will be one when God is dead.
-85
 
+### 85
 The artist is the lover of Nature, therefore he is her slave and her master.
-86
 
+### 86
 "How far are you from me, O Fruit?" "I am hidden in your heart, O Flower."
-87
 
+### 87
 This longing is for the one who is felt in the dark, but not seen in the day.
-88
 
+### 88
 "You are the big drop of dew under the lotus leaf, I am the smaller one on its upper side," said the dewdrop to the lake.
-89
 
+### 89
 The scabbard is content to be dull when it protects the keenness of the sword.
-90
 
+### 90
 In darkness the One appears as uniform; in the light the One appears as manifold.
-91
 
+### 91
 The great earth makes herself hospitable with the help of the grass.
-92
 
+### 92
 The birth and death of the leaves are the rapid whirls of the eddy whose wider circles move slowly among stars.
-93
 
+### 93
 Power said to the world, "You are mine. The world kept it prisoner on her throne. Love said to the world, "I am thine." The world gave it the freedom of her house.
-94
 
+### 94
 The mist is like the earth's desire. It hides the sun for whom she cries.
-95
 
+### 95
 Be still, my heart, these great trees are prayers.
-96
 
+### 96
 The noise of the moment scoffs at the music of the Eternal.
-97
 
+### 97
 I think of other ages that floated upon the stream of life and love and death and are forgotten, and I feel the freedom of passing away.
-98
 
+### 98
 The sadness of my soul is her bride's veil. It waits to be lifted in the night.
-99
 
+### 99
 Death's stamp gives value to the coin of life; making it possible to buy with life what is truly precious.
-100
 
+### 100
 The cloud stood humbly in a corner of the sky. The morning crowned it with splendour.
-101
 
+### 101
 The dust receives insult and in return offers her flowers.
-102
 
+### 102
 Do not linger to gather flowers to keep them, but walk on, for flowers will keep themselves blooming all your way.
-103
 
+### 103
 Roots are the branches down in the earth. Branches are roots in the air.
-104
 
+### 104
 The music of the far-away summer flutters around the Autumn seeking its former nest.
-105
 
+### 105
 Do not insult your friend by lending him merits from your own pocket.
-106
 
+### 106
 The touch of the nameless days clings to my heart like mosses round the old tree.
-107
 
+### 107
 The echo mocks her origin to prove she is the original.
-108
 
+### 108
 God is ashamed when the prosperous boasts of His special favour.
-109
 
+### 109
 I cast my own shadow upon my path, because I have a lamp that has not been lighted.
-110
 
+### 110
 Man goes into the noisy crowd to drown his own clamour of silence.
-111
 
+### 111
 That which ends in exhaustion is death, but the perfect ending is in the endless.
-112
 
+### 112
 The sun has his simple robe of light. The clouds are decked with gorgeousness.
-113
 
+### 113
 The hills are like shouts of children who raise their arms, trying to catch stars.
-114
 
+### 114
 The road is lonely in its crowd for it is not loved.
-115
+
+### 115
 
 The power that boasts of its mischiefs is laughed at by the yellow leaves that fall, and clouds that pass by.
 116
