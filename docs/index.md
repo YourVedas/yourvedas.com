@@ -9,15 +9,15 @@ actions:
     link: /library/index.html
     type: secondary
 
-footer: A public-domain work. By Abhimanyu Rana; @planetabhi
+footer: A public-domain work by Abhimanyu Rana. Twitter; @planetabhi
 
 ---
 
 ---
 
 ### New Updates ✨
-- 📕 [Sadhana—The Realisation of Life, Rabindranath Tagore](./library/modern/Sadhana/index.md) <em>(1916)</em>
-- 📕 [Fruit Gathering, Rabindranath Tagore](./library/modern/fruit-gathering/index.md) <em>(1916)</em>
-- 📕 [Gitanjali—Song Offerings, Rabindranath Tagore](./library/modern/Gitanjali/index.md) <em>(1913)</em>
-- 📕 [Stray Birds, Rabindranath Tagore](./library/modern/stray-birds/index.md) <em>(1916)</em>
-- 📕 [Thought Relics, Rabindranath Tagore](./library/modern/thought-relics/index.md) <em>(1921)</em>
+- 📕 [Sadhana, Rabindranath Tagore (1916)](./library/modern/Sadhana/index.md) 
+- 📕 [Fruit Gathering, Rabindranath Tagore (1916)](./library/modern/fruit-gathering/index.md)
+- 📕 [Gitanjali, Rabindranath Tagore (1913)](./library/modern/Gitanjali/index.md)
+- 📕 [Stray Birds, Rabindranath Tagore (1916)](./library/modern/stray-birds/index.md)
+- 📕 [Thought Relics, Rabindranath Tagore (1921)](./library/modern/thought-relics/index.md)

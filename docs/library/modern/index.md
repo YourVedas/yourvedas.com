@@ -10,11 +10,11 @@ sidebar: false
 ### Rabindranath Tagore
 > Rabindranath Tagore (1861-1941) was a Bengali poet, philosopher, artist, playwright, composer and novelist. India's first Nobel laureate, Tagore won the 1913 Nobel Prize for Literature. He composed the text of both India's and Bangladesh's respective national anthems. His body of literature is deeply sympathetic for the poor and upholds universal humanistic values. His poetry drew from traditional Vaisnava folk lyrics and was often deeply mystical.
 
-- 📕 [Gitanjali—Song Offerings](./Gitanjali/index.md) <em>(1913)</em>
-- 📕 [Sadhana—The Realisation of Life](./Sadhana/index.md) <em>(1916)</em>
-- 📕 [Fruit Gathering](./fruit-gathering/index.md) <em>(1916)</em>
-- 📕 [Stray Birds](./stray-birds/index.md) <em>(1916)</em>
-- 📕 [Thought Relics](./thought-relics/index.md) <em>(1921)</em>
+- 📕 [Gitanjali—Song Offerings (1913)](./Gitanjali/index.md)
+- 📕 [Sadhana—The Realisation of Life (1916)](./Sadhana/index.md)
+- 📕 [Fruit Gathering (1916)](./fruit-gathering/index.md)
+- 📕 [Stray Birds (1916)](./stray-birds/index.md)
+- 📕 [Thought Relics (1921)](./thought-relics/index.md)
 
 
 
