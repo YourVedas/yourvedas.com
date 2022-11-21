@@ -103,9 +103,9 @@
   --button-secondary-active: var(--silver6);
   --button-secondary-hover: var(--silver7);
   --button-secondary: var(--silver8);
-  --button-primary-active: var(--teal7);
-  --button-primary-hover: var(--teal6);
-  --button-primary: var(--teal5);
+  --button-primary-active: var(--red6);
+  --button-primary-hover: var(--red6);
+  --button-primary: var(--red5);
   --border-strong: var(--silver6);
   --border-default: var(--silver5);
   --border-muted: var(--silver5);
@@ -280,9 +280,9 @@ html.dark {
   --button-secondary-active: var(--silver7);
   --button-secondary-hover: var(--silver7);
   --button-secondary: var(--silver6);
-  --button-primary-active: var(--teal2);
-  --button-primary-hover: var(--teal3);
-  --button-primary: var(--teal4);
+  --button-primary-active: var(--red3);
+  --button-primary-hover: var(--red3);
+  --button-primary: var(--red4);
   --border-strong: var(--silver5);
   --border-default: var(--silver6);
   --border-muted: var(--silver7);
@@ -375,7 +375,8 @@ h3 { font-family: "et-bold", serif; color: var(--text-primary-alt);}
                   border-top: 1px solid var(--c-border);
                   text-align: center;
                   color: var(--text-secondary);
-                  font-size: 1rem;
+                  font-size: 14px;
+                  line-height: 20px;  
 }
 
 .home .hero .action-button { 
@@ -390,6 +391,16 @@ transition: background-color var(--t-color);
 box-sizing: border-box;
 display: inline-block;
 }
+
+
+.home .hero .action-button.primary {
+  color: var(--c-bg);
+  background-color: var(--c-brand);
+  border: none;
+}
+.home .hero .action-button.primary { background-color: var(--button-primary);}
+.home .hero .action-button.primary:hover { background-color: var(--button-primary-hover);}
+.home .hero .action-button.primary:active { background-color: var(--button-primary-active);}
 
 .home .hero h1 { 
   font-size: 32px; 
@@ -423,4 +434,4 @@ li {
 }
 
 .toggle-color-mode-button { color: var(--icon-primary);}
-.toggle-sidebar-button .icon span { background-color: var(--icon-primary);}
+.toggle-sidebar-button .icon span { background-color: var(--icon-secondary);}

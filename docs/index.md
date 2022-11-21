@@ -7,7 +7,7 @@ heroImage: /images/cover.png
 actions:
   - text: Explore Library
     link: /library/index.html
-    type: secondary
+    type: primary
 
 footer: A public-domain work by Abhimanyu Rana. Twitter; @planetabhi
 
@@ -15,7 +15,7 @@ footer: A public-domain work by Abhimanyu Rana. Twitter; @planetabhi
 
 ---
 
-### New Updates ✨
+### New Updates
 - 📕 [Sadhana, Rabindranath Tagore (1916)](./library/modern/Sadhana/index.md) 
 - 📕 [Fruit Gathering, Rabindranath Tagore (1916)](./library/modern/fruit-gathering/index.md)
 - 📕 [Gitanjali, Rabindranath Tagore (1913)](./library/modern/Gitanjali/index.md)
