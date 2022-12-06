@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Your-Vedas/vedas.git"
+    "url": "git+https://github.com/Your-Vedas/yourvedas.com.git"
   },
   "author": "Abhimanyu Rana",
   "license": "Public Domain",
   "bugs": {
-    "url": "https://github.com/Your-Vedas/vedas/issues"
+    "url": "https://github.com/Your-Vedas/yourvedas.com/issues"
   },
-  "homepage": "https://github.com/Your-Vedas/vedas#readme",
+  "homepage": "https://github.com/Your-Vedas/yourvedas.com#readme",
   "devDependencies": {
     "@sargamdesign/colors": "^2.0.0",
     "vuepress": "^2.0.0-beta.53"
