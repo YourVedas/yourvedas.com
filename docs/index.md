@@ -21,3 +21,4 @@ footer: A public-domain work by Abhimanyu Rana. Twitter; @planetabhi
 - 📕 [Gitanjali, Rabindranath Tagore (1913)](./library/modern/Gitanjali/index.md)
 - 📕 [Stray Birds, Rabindranath Tagore (1916)](./library/modern/stray-birds/index.md)
 - 📕 [Thought Relics, Rabindranath Tagore (1921)](./library/modern/thought-relics/index.md)
+- 📕 [The Yoga Sutras of Patanjali (1912)](./library/modern/yoga-sutras/index.md)
