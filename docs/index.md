@@ -9,7 +9,7 @@ actions:
     link: /library/index.html
     type: primary
 
-footer: A public-domain work by Abhimanyu Rana. Twitter; @planetabhi
+footer: Brought to you by Abhimanyu Rana. Twitter; @planetabhi
 
 ---
 
