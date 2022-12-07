@@ -1,4 +1,6 @@
 import { defaultTheme } from '@vuepress/theme-default'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
+
 
 export default {
     lang: 'en-US',
@@ -42,4 +44,11 @@ export default {
           },
         ],
       }),
+
+      plugins: [
+        googleAnalyticsPlugin({
+          id: 'G-NCDG1XB4BN',
+        }),
+      ],
+
 }

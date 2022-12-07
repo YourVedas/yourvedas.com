@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Your-Vedas/yourvedas.com#readme",
   "devDependencies": {
     "@sargamdesign/colors": "^2.0.0",
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.53",
     "vuepress": "^2.0.0-beta.53"
   }
 }
