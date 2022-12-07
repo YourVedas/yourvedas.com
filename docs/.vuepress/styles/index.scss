@@ -73,6 +73,7 @@
   --green3: #5FC37E;
   --green2: #BDE6CA;
   --green1: #F6FBF7;
+  --alpha: 0.98;
 
  // default tokens
   --text-success: var(--green6);
@@ -363,7 +364,7 @@ h3 { font-family: "et-bold", serif; color: var(--text-primary-alt);}
 .home .hero .description {  max-width: 56rem;
                             font-size: 24px;
                             line-height: 110%;
-                            color: var(--text-secondary);
+                            color: var(--text-primary-alt);
                             font-family: 'et-italic', serif; }
 
 .navbar-items a {   font-family: 'Rubik', sans-serif;
@@ -412,6 +413,12 @@ display: inline-block;
 
 p, ul, ol {  line-height: 32px;
             font-size: 20px;
+}
+
+.navbar { 
+  border-bottom: none; 
+  //backdrop-filter: blur(24px);
+  //background-color: rgba(var(--c-bg-navbar), var(--alpha));
 }
 
 .navbar .site-name { display: none;}
