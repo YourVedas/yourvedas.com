@@ -21,3 +21,11 @@ Rabindranath Tagore (1861-1941) was a Bengali poet, philosopher, artist, playwri
 This is an early 20th century translation of the Yoga Sutras of Patanjali, one of the earliest and most important texts of Yoga. The translation and commentary are intended for general readers, so there is a minimum of technical language and apparatus. 
 
 - 📕 [The Yoga Sutras of Patanjali (1912)](./yoga-sutras/index.md)
+
+
+## Love and Death
+The popular story of Ruru and Priyumvada from the Mahabharata.
+
+- 📕 [Love and Death (1921)](./love-and-death/index.md)
+
+
