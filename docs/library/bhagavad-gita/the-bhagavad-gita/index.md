@@ -14,31 +14,31 @@ A modern prose translation of the Gita, sanctioned by the International Gita Soc
 
 The Gita is a doctrine of universal truth. Its message is universal, sublime, and non-sectarian although it is a part of the scriptural trinity of Sanaatana Dharma, commonly known as Hinduism. The Gita is very easy to understand in any language for a mature mind. A repeated reading with faith will reveal all the sublime ideas contained in it. A few abstruse statements are interspersed here and there but they have no direct bearing on practical issues or the central theme of Gita. The Gita deals with the most sacred metaphysical science. It imparts the knowledge of the Self and answers two universal questions: Who am I, and how can I lead a happy and peaceful life in this world of dualities. It is a book of yoga, the moral and spiritual growth, for mankind based on the cardinal principles of Hindu religion.
 
-The message of Gita came to humanity because of Arjunaâ€™s unwillingness to do his duty as a warrior, because fighting involved destruction and killing. Nonviolence or Ahimsa is one of the most fundamental tenets of Hinduism. All lives, human or non-human, are sacred. This immortal discourse between the Supreme Lord, Krishna, and His devotee-friend, Arjuna, occurs not in a temple, a secluded forest, or on a mountain top but on a battlefield on the eve of a war and is recorded in the great epic, Mahaabhaarata. In Gita Lord Krishna advises Arjuna to get up and fight. This may create a misunderstanding of the principles of Ahimsa if the background of the war of Mahaabhaarata is not kept in mind. Therefore, a brief historical description is in order.
+The message of Gita came to humanity because of Arjuna's unwillingness to do his duty as a warrior, because fighting involved destruction and killing. Nonviolence or Ahimsa is one of the most fundamental tenets of Hinduism. All lives, human or non-human, are sacred. This immortal discourse between the Supreme Lord, Krishna, and His devotee-friend, Arjuna, occurs not in a temple, a secluded forest, or on a mountain top but on a battlefield on the eve of a war and is recorded in the great epic, Mahaabhaarata. In Gita Lord Krishna advises Arjuna to get up and fight. This may create a misunderstanding of the principles of Ahimsa if the background of the war of Mahaabhaarata is not kept in mind. Therefore, a brief historical description is in order.
 
 In ancient times there was a king who had two sons, Dhritaraashtra and Paandu. The former was born blind, therefore, Paandu inherited the kingdom. Paandu had five sons. They were called the Paandavs. Dhritaraashtra had one hundred sons. They were called the Kauravs. Duryodhana was the eldest of the Kauravs.
 
 After the death of king Paandu the Paandavs became the lawful king. Duryodhana was a very jealous person. He also wanted the kingdom. The kingdom was divided into two halves between the Paandavs and the Kauravs . Duryodhana was not satisfied with his share of the kingdom. He wanted the entire kingdom for himself. He unsuccessfully planned several foul plays to kill the Paandavs and take away their kingdom. He unlawfully took possession of the entire kingdom of the Paandavs and refused to give back even an acre of land without a war. All mediation by Lord Krishna and others failed. The big war of Mahaabhaarata was thus inevitable. The Paandavs were unwilling participants. They had only two choices: Fight for their right as a matter of duty or run away from war and accept defeat in the name of peace and nonviolence. Arjuna, one of the five Paandava brothers, faced the dilemma in the battlefield whether to fight or run away from war for the sake of peace.
 
-Arjunaâ€™s dilemma is, in reality, the universal dilemma. Every human being faces dilemmas, big and small, in their everyday life when performing their duties. Arjunaâ€™s dilemma was the biggest of all. He had to make a choice between fighting the war and killing his most revered guru, very dear friends, close relatives, and many innocent warriors or running away from the battlefield for the sake of preserving the peace and nonviolence. The entire seven hundred verses of the Gita is a discourse between Lord Krishna and the confused Arjuna on the battlefield of Kurukshetra near New Delhi, India, in about 3,100 years BCE. This discourse was narrated to the blind king, Dhritaraashtr, by his charioteer, Sanjaya, as an eyewitness war report.
+Arjuna's dilemma is, in reality, the universal dilemma. Every human being faces dilemmas, big and small, in their everyday life when performing their duties. Arjuna's dilemma was the biggest of all. He had to make a choice between fighting the war and killing his most revered guru, very dear friends, close relatives, and many innocent warriors or running away from the battlefield for the sake of preserving the peace and nonviolence. The entire seven hundred verses of the Gita is a discourse between Lord Krishna and the confused Arjuna on the battlefield of Kurukshetra near New Delhi, India, in about 3,100 years BCE. This discourse was narrated to the blind king, Dhritaraashtr, by his charioteer, Sanjaya, as an eyewitness war report.
 
-The main objective of the Gita is to help people Â¾ struggling in the darkness of ignorance Â¾ cross the ocean of transmigration and reach the spiritual shore of liberation while living and working in the society. The central teaching of the Gita is the attainment of freedom or happiness from the bondage of life by doing oneâ€™s duty. Always remember the glory and greatness of the creator and do your duty efficiently without being attached to or affected by the results even if that duty may at times demand unavoidable violence. Some people neglect or give up their duty in life for the sake of a spiritual life while others excuse themselves from spiritual practices because they believe that they have no time. The Lordâ€™s message is to sanctify the entire living process itself. Whatever a person does or thinks ought to be done for the glory and satisfaction of the Maker. No effort or cost is necessary for this process. Do your duty as a service to the Lord and humanity and see God alone in everything in a spiritual frame of mind. In order to gain such a spiritual frame of mind, personal discipline, austerity, penance, good conduct, selfless service, yogic practices, meditation, worship, prayer, rituals, and study of scriptures, as well as the company of holy persons, pilgrimage, chanting of the holy names of God, and Self-inquiry are needed to purify the body, mind, and intellect. One must learn to give up lust, anger, greed, and establish mastery over the six senses (hearing, touch, sight, taste, smell, and mind) by the purified intellect. One should always remember that all works are done by the energy of nature and that he or she is not the doer but only an instrument. One must strive for excellence in all undertakings but maintain equanimity in success and failure, gain and loss, and pain and pleasure.
+The main objective of the Gita is to help people Â¾ struggling in the darkness of ignorance Â¾ cross the ocean of transmigration and reach the spiritual shore of liberation while living and working in the society. The central teaching of the Gita is the attainment of freedom or happiness from the bondage of life by doing one's duty. Always remember the glory and greatness of the creator and do your duty efficiently without being attached to or affected by the results even if that duty may at times demand unavoidable violence. Some people neglect or give up their duty in life for the sake of a spiritual life while others excuse themselves from spiritual practices because they believe that they have no time. The Lord's message is to sanctify the entire living process itself. Whatever a person does or thinks ought to be done for the glory and satisfaction of the Maker. No effort or cost is necessary for this process. Do your duty as a service to the Lord and humanity and see God alone in everything in a spiritual frame of mind. In order to gain such a spiritual frame of mind, personal discipline, austerity, penance, good conduct, selfless service, yogic practices, meditation, worship, prayer, rituals, and study of scriptures, as well as the company of holy persons, pilgrimage, chanting of the holy names of God, and Self-inquiry are needed to purify the body, mind, and intellect. One must learn to give up lust, anger, greed, and establish mastery over the six senses (hearing, touch, sight, taste, smell, and mind) by the purified intellect. One should always remember that all works are done by the energy of nature and that he or she is not the doer but only an instrument. One must strive for excellence in all undertakings but maintain equanimity in success and failure, gain and loss, and pain and pleasure.
 
-The ignorance of metaphysical knowledge is humanityâ€™s greatest predicament. A scripture, being the voice of transcendence, cannot be translated. Language is incapable and translations are defective to clearly impart the knowledge of the Absolute. In this rendering, an attempt has been made to keep the style as close as possible to the original Sanskrit poetry and yet make it easy to read and understand. An attempt has been made to improve the clarity by adding words or phrases, within parenthesis, in the English translation of the verses. A glossary and index have been included. One hundred and thirty-three (133) key verses are printed in red for the convenience of beginners. We suggest all our readers to ponder, contemplate, and act upon these red key verses. The beginners and the busy executives should first read and understand the meaning of these key verses before delving deep into the bottomless ocean of transcendental knowledge of the Gita.
+The ignorance of metaphysical knowledge is humanity's greatest predicament. A scripture, being the voice of transcendence, cannot be translated. Language is incapable and translations are defective to clearly impart the knowledge of the Absolute. In this rendering, an attempt has been made to keep the style as close as possible to the original Sanskrit poetry and yet make it easy to read and understand. An attempt has been made to improve the clarity by adding words or phrases, within parenthesis, in the English translation of the verses. A glossary and index have been included. One hundred and thirty-three (133) key verses are printed in red for the convenience of beginners. We suggest all our readers to ponder, contemplate, and act upon these red key verses. The beginners and the busy executives should first read and understand the meaning of these key verses before delving deep into the bottomless ocean of transcendental knowledge of the Gita.
 
 According to the scriptures no sin, however heinous, can affect the one who reads, ponders, and practices the teachings of Gita any more than water affects the lotus leaf. The Lord Himself resides where Gita is kept, read, chanted, or taught. The Gita is the knowledge Supreme and the sound embodiment of the Absolute and the Eternal. The one who reads, ponders, and practices the teachings of Gita with faith and devotion will attain Moksha (or Nirvana) by the grace of God.
 
 This book is dedicated to my Sadguru, His Holiness Swami Chidanandji (Muniji) Maharaj and all other gurus whose blessings, grace, and teachings have been invaluable. It is offered to the greatest guru, Lord Krishna, with love and devotion. May the Lord accept it, and bless those who repeatedly read this with peace, happiness, and the true knowledge of the Self.
 
-## CHAPTER 1, ARJUNAâ€™S DILEMMA
+## CHAPTER 1, ARJUNA'S DILEMMA
 
 The war of Mahabharata has begun after all negotiations by Lord Krishna and others to avoid it failed. The blind King (Dhritarashtra) was never very sure about the victory of his sons (Kauravas) in spite of their superior army. Sage Vyasa, the author of Mahabharata, wanted to give the blind king the boon of eyesight so that the king could see the horrors of the war for which he was primarily responsible. But the king refused the offer. He did not want to see the horrors of the war; but preferred to get the war report through his charioteer, Sanjaya. Sage Vyasa granted the power of clairvoyance to Sanjaya. With this power Sanjaya could see, hear, and recall the events of the past, present, and the future. He was able to give an instant replay of the eye witness war report to the blind King sitting in the palace.
 
-Bhishma, the mightiest man and the commander-in-chief of the Kauravaâ€™s army, is disabled by Arjuna and is lying on deathbed in the battleground on the tenth day of the eighteen day war. Upon hearing this bad news from Sanjaya, the blind King looses all hopes for victory of his sons. Now the King wants to know the details of the war from the beginning, including how the mightiest man, and the commander-in-chief of his superior army Â¾ who had a boon of dying at his own will Â¾ was defeated in the battlefield. The teaching of the Gita begins with the inquiry of the blind King, after Sanjaya described how Bhishma was defeated, as follows:
+Bhishma, the mightiest man and the commander-in-chief of the Kaurava's army, is disabled by Arjuna and is lying on deathbed in the battleground on the tenth day of the eighteen day war. Upon hearing this bad news from Sanjaya, the blind King looses all hopes for victory of his sons. Now the King wants to know the details of the war from the beginning, including how the mightiest man, and the commander-in-chief of his superior army Â¾ who had a boon of dying at his own will Â¾ was defeated in the battlefield. The teaching of the Gita begins with the inquiry of the blind King, after Sanjaya described how Bhishma was defeated, as follows:
 
 The King inquired: Sanjaya, please now tell me, in details, what did my people (the Kauravas) and the Pandavas do in the battlefield before the war started? (1.01)
 
-Sanjaya said: O King, After seeing the battle formation of the Pandavaâ€™s army, your son approached his guru and spoke these words: (1.02)
+Sanjaya said: O King, After seeing the battle formation of the Pandava's army, your son approached his guru and spoke these words: (1.02)
 
 O Master, behold this mighty army of the Pandavas, arranged in battle formation by your other talented disciple! There are many great warriors, valiant men, heroes, and mighty archers. (1.03-06)
 
@@ -218,7 +218,7 @@ Do your duty to the best of your ability, O Arjuna, with your mind attached to t
 
 Work done with selfish motives is inferior by far to the selfless service. Therefore be a selfless worker, O Arjuna. Those who work only to enjoy the fruits of their labor are verily unhappy, because one has no control over the results. (2.49)
 
-A Karma-yogi or the selfless person becomes free from both vice and virtue in this life itself. Therefore, strive for selfless service. Working to the best of oneâ€™s abilities without becoming selfishly attached to the fruits of work is called Karma-yoga or Seva. (2.50)
+A Karma-yogi or the selfless person becomes free from both vice and virtue in this life itself. Therefore, strive for selfless service. Working to the best of one's abilities without becoming selfishly attached to the fruits of work is called Karma-yoga or Seva. (2.50)
 
 Karma-yogis are freed from the bondage of rebirth due to renouncing the selfish attachment to the fruits of all work, and attain blissful divine state of salvation or Nirvana. (2.51)
 
@@ -244,7 +244,7 @@ The desire for sensual pleasures fades away if one abstains from sense enjoyment
 
 Restless senses, O Arjuna, forcibly carry away the mind of even a wise person striving for perfection. (2.60)
 
-One should fix oneâ€™s mind on God with loving contemplation after bringing the senses under control. Oneâ€™s intellect becomes steady when oneâ€™s senses are under complete control. (2.61)
+One should fix one's mind on God with loving contemplation after bringing the senses under control. One's intellect becomes steady when one's senses are under complete control. (2.61)
 
 One develops attachment to sense objects by thinking about sense objects. Desire for sense objects comes from attachment to sense objects, and anger comes from unfulfilled desires. (2.62)
 
@@ -260,7 +260,7 @@ There is neither Self-knowledge, nor Self-perception to those who are not united
 
 Because the mind, when controlled by the roving senses, steals away the intellect as a storm takes away a boat on the sea from its destination Â¾ the spiritual shore of peace and happiness. (2.67)
 
-Therefore, O Arjuna, oneâ€™s intellect becomes steady whose senses are completely withdrawn from the sense objects. (2.68)
+Therefore, O Arjuna, one's intellect becomes steady whose senses are completely withdrawn from the sense objects. (2.68)
 
 A yogi, the person of self-restraint, remains wakeful when it is night for all others. It is night for the yogi who sees when all others are wakeful. (2.69)
 
@@ -268,7 +268,7 @@ One attains peace, within whose mind all desires dissipate without creating any 
 
 One who abandons all desires, and becomes free from longing and the feeling of 'I' and 'my', attains peace. (2.71)
 
-O Arjuna, this is the superconscious state of mind. Attaining this state, one is no longer deluded. Gaining this state, even at the end of oneâ€™s life, a person becomes one with the Absolute. (2.72).
+O Arjuna, this is the superconscious state of mind. Attaining this state, one is no longer deluded. Gaining this state, even at the end of one's life, a person becomes one with the Absolute. (2.72).
 
 ## CHAPTER 3, PATH OF SERVICE
 
@@ -338,13 +338,13 @@ All beings follow their nature. Even the wise act according to their own nature.
 
 **TWO MAJOR STUMBLING BLOCKS ON THE PATH OF PERFECTION**
 
-Attachments and aversions for the sense objects remain in the senses. One should not come under the control of these two, because they are two major stumbling blocks, indeed, on oneâ€™s path of Self-realization. (3.34)
+Attachments and aversions for the sense objects remain in the senses. One should not come under the control of these two, because they are two major stumbling blocks, indeed, on one's path of Self-realization. (3.34)
 
-Oneâ€™s inferior natural work is better than superior unnatural work. Death in carrying out oneâ€™s natural work is useful. Unnatural work produces too much stress. (See also 18.47) (3.35)
+One's inferior natural work is better than superior unnatural work. Death in carrying out one's natural work is useful. Unnatural work produces too much stress. (See also 18.47) (3.35)
 
 **LUST IS THE ORIGIN OF SIN**
 
-Arjuna said: O Krishna, what impels one to commit sin as if unwillingly and forced against oneâ€™s will? (3.36)
+Arjuna said: O Krishna, what impels one to commit sin as if unwillingly and forced against one's will? (3.36)
 
 Lord Krishna said: It is the lust born out of passion that becomes anger when unfulfilled. Lust is insatiable and is a great devil. Know this as the enemy. (3.37)
 
@@ -536,7 +536,7 @@ For the wise, who seeks to attain yoga of meditation, or the equanimity of mind,
 
 **MIND IS THE BEST FRIEND AS WELL AS THE WORST ENEMY**
 
-One must elevate Â¾ and not degrade Â¾ oneself by oneâ€™s own mind. The mind alone is oneâ€™s friend as well as oneâ€™s enemy. The mind is the friend of those who have control over it, and the mind acts like an enemy for those who do not control it. (6.05-06)
+One must elevate Â¾ and not degrade Â¾ oneself by one's own mind. The mind alone is one's friend as well as one's enemy. The mind is the friend of those who have control over it, and the mind acts like an enemy for those who do not control it. (6.05-06)
 
 One who has control over the lower self Â¾ the mind and senses Â¾ is tranquil in heat and cold, in pleasure and pain, and in honor and dishonor, and remains ever steadfast with the supreme Self. (6.07)
 
@@ -586,7 +586,7 @@ Those who perceive Me in everything, and behold everything in Me, are not separa
 
 The non-dualists, who adore Me as abiding in all beings, abide in Me irrespective of their mode of living. (6.31)
 
-One is considered the best yogi who regards every being like oneself, and who can feel the pain and pleasures of others as oneâ€™s own, O Arjuna. (6.32)
+One is considered the best yogi who regards every being like oneself, and who can feel the pain and pleasures of others as one's own, O Arjuna. (6.32)
 
 **TWO METHODS TO SUBDUE THE RESTLESS MIND**
 
@@ -668,7 +668,7 @@ Among them the enlightened devotee, who is ever united with Me and whose devotio
 
 All these seekers are indeed noble. But, I regard the enlightened devotee as My very Self, because the one who is steadfast abides in My Supreme Abode. (See also 9.29) (7.18)
 
-After many births the enlightened one resorts to Me by realizing that everything is, indeed, My (or Supreme Beingâ€™s) manifestation. Such a great soul is very rare. (7.19)
+After many births the enlightened one resorts to Me by realizing that everything is, indeed, My (or Supreme Being's) manifestation. Such a great soul is very rare. (7.19)
 
 Persons, whose discernment has been carried away by various desires impelled by their Karmic impression, resort to celestial controllers and practice various religious rites. (7.20)
 
@@ -746,7 +746,7 @@ Fire, light, daytime, the bright lunar fortnight, and the six months of the nort
 
 Smoke, night, the dark lunar fortnight, and the six months of southern solstice of the sun â€” departing by these paths, the righteous person attains heaven and comes back to earth. (8.25)
 
-The path of light of spiritual practice and Self-knowledge and the path of darkness of materialism and ignorance are thought to be the worldâ€™s two eternal paths. The former leads to salvation and the latter leads to rebirth as human beings. (8.26)
+The path of light of spiritual practice and Self-knowledge and the path of darkness of materialism and ignorance are thought to be the world's two eternal paths. The former leads to salvation and the latter leads to rebirth as human beings. (8.26)
 
 **TRANSCENDENTAL KNOWLEDGE LEADS TO SALVATION**
 
@@ -990,7 +990,7 @@ Therefore, you get up and attain glory. Conquer your enemies, and enjoy a prospe
 
 Kill all these great warriors who are already killed by Me. Do not fear. You will certainly conquer the enemies in the battle; therefore, fight! (11.34)
 
-**ARJUNAâ€™S PRAYERS TO THE COSMIC FORM**
+**ARJUNA'S PRAYERS TO THE COSMIC FORM**
 
 Sanjaya said: Having heard these words of Krishna; the crowned Arjuna, trembling with folded hands, prostrated with fear and spoke to Krishna in a choked voice. (11.35)
 
@@ -1114,7 +1114,7 @@ The Spirit has His hands, feet, eyes, head, mouth, and ears everywhere, because 
 
 He is the perceiver of all sense objects without the physical sense organs; unattached, and yet the sustainer of all; devoid of the three modes of material Nature, and yet the enjoyer of the modes of material Nature by becoming a living entity. (13.14)
 
-He is inside as well as outside all beings, animate and inanimate. He is incomprehensible because of His subtlety. And because of His omnipresence, He is very near Â¾ residing in oneâ€™s inner psyche; as well as far away Â¾ in the Supreme Abode. (13.15)
+He is inside as well as outside all beings, animate and inanimate. He is incomprehensible because of His subtlety. And because of His omnipresence, He is very near Â¾ residing in one's inner psyche; as well as far away Â¾ in the Supreme Abode. (13.15)
 
 He is undivided, and yet appears to exist as if divided in beings. He is the object of knowledge, and appears as the creator, sustainer, and destroyer of all beings. (See also 11.13, and 18.20) (13.16)
 
@@ -1142,11 +1142,11 @@ Whatever is born Â¾ animate or inanimate Â¾ know them to be born from the un
 
 The one who sees the same eternal Supreme Lord dwelling as Spirit equally within all mortal beings truly sees. (13.27)
 
-When one beholds one and the same Lord existing equally in everybeing, one does not injure anybody; because one considers everything as oneâ€™s own self. And thereupon attains the Supreme Abode. (13.28)
+When one beholds one and the same Lord existing equally in everybeing, one does not injure anybody; because one considers everything as one's own self. And thereupon attains the Supreme Abode. (13.28)
 
 The one who perceives that all works are done by the powers of material Nature truly understands, and thus does not consider oneself as the doer. (See also 3.27, 5.09, and 14.19) (13.29)
 
-The moment one discovers diverse variety of beings and their different ideas abiding in One, and coming out from â€˜Thatâ€™ alone, one attains the Supreme Being. (13.30)
+The moment one discovers diverse variety of beings and their different ideas abiding in One, and coming out from â€˜That' alone, one attains the Supreme Being. (13.30)
 
 **ATTRIBUTES OF THE SPIRIT (BRAHM)**
 
@@ -1270,7 +1270,7 @@ Because the Supreme Being is beyond both Temporal and Eternal; therefore, He is 
 
 The wise one who truly understands the Supreme Being, knows everything and worships Him wholeheartedly. (See also 7.14, 14.26, and 18.66) (15.19)
 
-Thus this most secret transcendental science of the Absolute has been explained by Me. Having understood this, one becomes enlightened, and oneâ€™s all duties are accomplished, O Arjuna. (15.20)
+Thus this most secret transcendental science of the Absolute has been explained by Me. Having understood this, one becomes enlightened, and one's all duties are accomplished, O Arjuna. (15.20)
 
 ## CHAPTER 16, DIVINE AND THE DEMONIC QUALITIES
 
@@ -1338,7 +1338,7 @@ Arjuna said: What is the mode of devotion of those who perform spiritual practic
 
 Lord Krishna said: The natural faith of embodied beings is of three kinds: Goodness, passion, and ignorance. Now hear about these from Me. (17.02)
 
-O Arjuna, the faith of each is in accordance with oneâ€™s own natural disposition that is governed by Karmic impressions. A person is known by the faith. One can become whatever one wants to be, if one constantly contemplates on the object of desire with faith. (17.03)
+O Arjuna, the faith of each is in accordance with one's own natural disposition that is governed by Karmic impressions. A person is known by the faith. One can become whatever one wants to be, if one constantly contemplates on the object of desire with faith. (17.03)
 
 Persons in the mode of goodness worship celestial controllers; those in the mode of passion worship supernatural rulers and demons; and those in the mode of ignorance worship ghosts and spirits. (17.04)
 
@@ -1436,7 +1436,7 @@ Learn from Me, O Arjuna, the five causes, as described in the Sankhya doctrine, 
 
 Whatever action, whether right or wrong, one performs by thought, word, and deed; these are its five causes. (18.15)
 
-Therefore, the ignorant one who considers oneâ€™s body or the soul as the sole agent due to imperfect knowledge does not understand. (18.16)
+Therefore, the ignorant one who considers one's body or the soul as the sole agent due to imperfect knowledge does not understand. (18.16)
 
 The one who is free from the notion of doership, and whose intellect is not polluted by the desire to reap the fruit; even after slaying these people, he or she neither slays nor is bound by the act of killing. (18.17)
 
@@ -1458,7 +1458,7 @@ The obligatory duty performed without likes and dislikes, and without selfish mo
 
 Action performed with ego, with selfish motives, and with too much effort; is declared to be in the mode of passion. (18.24)
 
-Action that is undertaken because of delusion; disregarding consequences, loss, injury to others, as well as oneâ€™s own ability is said to be in the mode of ignorance. (18.25)
+Action that is undertaken because of delusion; disregarding consequences, loss, injury to others, as well as one's own ability is said to be in the mode of ignorance. (18.25)
 
 **THREE TYPES OF AGENT**
 
@@ -1498,9 +1498,9 @@ Pleasure that confuses a person in the beginning and in the end; which comes fro
 
 There is no being, either on the earth or among the celestial controllers in the heaven, who can remain free from these three modes of material Nature. (18.40)
 
-**DIVISION OF LABOR IS BASED ON ONEâ€™S ABILITY**
+**DIVISION OF LABOR IS BASED ON ONE'S ABILITY**
 
-The division of human labor is also based on the qualities inherent in peoplesâ€™ nature or their make up. (See also 4.13) (18.41)
+The division of human labor is also based on the qualities inherent in peoples' nature or their make up. (See also 4.13) (18.41)
 
 Those who have serenity, self control, austerity, purity, patience, honesty, transcendental knowledge, transcendental experience, and belief in God are labeled as intellectuals (Braahmans). (18.42)
 
@@ -1510,13 +1510,13 @@ Those who are good in cultivation, cattle rearing, business, trade, finance, and
 
 **ATTAINMENT OF SALVATION THROUGH DUTY, DISCIPLINE, AND DEVOTION**
 
-One can attain the highest perfection by devotion to oneâ€™s natural work. Listen to Me how one attains perfection while engaged in oneâ€™s natural work. (18.45)
+One can attain the highest perfection by devotion to one's natural work. Listen to Me how one attains perfection while engaged in one's natural work. (18.45)
 
-One attains perfection by worshipping the Supreme Being Â¾ from whom all beings originate, and by whom all this universe is pervaded Â¾ through performance of oneâ€™s natural duty for Him. (See also 9.27, 12.10) (18.46)
+One attains perfection by worshipping the Supreme Being Â¾ from whom all beings originate, and by whom all this universe is pervaded Â¾ through performance of one's natural duty for Him. (See also 9.27, 12.10) (18.46)
 
-Oneâ€™s inferior natural work is better than superior unnatural work even though well performed. One who does the work ordained by oneâ€™s inherent nature, without any selfish motive, incurs no sin (or Karmic reaction). (See also 3.35) (18.47)
+One's inferior natural work is better than superior unnatural work even though well performed. One who does the work ordained by one's inherent nature, without any selfish motive, incurs no sin (or Karmic reaction). (See also 3.35) (18.47)
 
-Oneâ€™s natural work, even though defective, should not be abandoned; because all undertakings are enveloped by defects as fire is covered by smoke, O Arjuna. (18.48)
+One's natural work, even though defective, should not be abandoned; because all undertakings are enveloped by defects as fire is covered by smoke, O Arjuna. (18.48)
 
 The person whose mind is always free from selfish attachment, who has subdued the mind and senses, and who is free from desires attains the supreme perfection of freedom from the bondage of Karma by renouncing selfish attachment to the fruits of work. (18.49)
 
