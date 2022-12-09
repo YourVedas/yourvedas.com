@@ -11,4 +11,4 @@ The Bhagavad Gita, usually considered part of the sixth book of the Mahabharata 
 ### The Bhagavad Gita 
 A modern prose translation of the Gita, sanctioned by the International Gita Society. 
 
-- 📕 [The Bhagavad Gita](./the-bhagavad-gita/index.md) <em>(c. 1500–1000 BCE)</em>
+- 📕 [The Bhagavad Gita](./the-bhagavad-gita/index.md)
