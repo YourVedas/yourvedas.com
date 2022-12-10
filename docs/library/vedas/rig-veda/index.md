@@ -5,10 +5,9 @@ description:
 sidebar: false
 ---
 
-# Rig Veda
-[Work In Progress]
+# Rig Veda [WIP]
 
-### The Rig Veda in Sanskrit
+## The Rig Veda in Sanskrit
 This is an experimental Sanskrit version of the Rig Veda.
 
 - 📕 [The Rig Veda in Sanskrit](./sanskrit/index.md)
