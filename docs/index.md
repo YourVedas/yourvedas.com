@@ -9,7 +9,7 @@ actions:
     link: /library/index.html
     type: primary
 
-footer: Brought to you by Abhimanyu Rana. Twitter; @planetabhi
+footer: Brought to you by @planetabhi
 
 ---
 
