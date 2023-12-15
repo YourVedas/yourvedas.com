@@ -15,28 +15,8 @@ export default {
             link: '/library/vedas',
           },
           {
-            text: 'Upanishads',
-            link: '/library/upanishads',
-          },
-          {
-            text: 'Puranas',
-            link: '/library/puranas',
-          },
-          {
-            text: 'Mahabharata',
-            link: '/library/mahabharata',
-          },
-          {
-            text: 'Ramayana',
-            link: '/library/ramayana',
-          },
-          {
             text: 'Bhagavad Gita',
             link: '/library/bhagavad-gita',
-          },
-          {
-            text: 'Vedanta',
-            link: '/library/vedanta',
           },
           {
             text: 'Modern',
