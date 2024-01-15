@@ -140,19 +140,19 @@
   --homepage-width: 600px;
 
   // override
-  --c-brand: var(--red6) !important;
-  --c-brand-light: var(--c-brand) !important;
-  --c-bg: var(--background-high-contrast) !important;
-  --c-bg-navbar: var(--c-bg) !important;
-  --c-bg-sidebar: var(--c-bg) !important;
-  --c-bg-arrow: var(--icon-inked) !important;
+  --c-brand: var(--red6);
+  --c-brand-light: var(--c-brand);
+  --c-bg: var(--background-high-contrast);
+  --c-bg-navbar: var(--c-bg);
+  --c-bg-sidebar: var(--c-bg);
+  --c-bg-arrow: var(--icon-inked);
   --c-text: var(--text-inked) !important;
-  --c-text-accent: var(--c-brand) !important;
-  --c-text-quote: var(--text-secondary) !important;
-  --c-border: var(--border-inked) !important;
-  --c-border-dark: var(--border-inked) !important;
-  --c-tip: var(--text-inked) !important;
-  --c-details-bg: var(--text-secondary) !important;
+  --c-text-accent: var(--c-brand);
+  --c-text-quote: var(--text-secondary);
+  --c-border: var(--border-inked);
+  --c-border-dark: var(--border-inked);
+  --c-tip: var(--text-inked);
+  --c-details-bg: var(--text-secondary);
 
   .back-to-top {
     --back-to-top-color: var(--icon-inked);

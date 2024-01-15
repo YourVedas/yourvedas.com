@@ -4,7 +4,6 @@ home: true
 title: Your Vedas
 description: 
 heroImage: /images/cover.png
-heroAlt: cover
 footer: Brought to you by @planetabhi (*_ _)人 
 actions:
   - text: Explore Library
