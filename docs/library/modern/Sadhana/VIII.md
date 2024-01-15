@@ -3,6 +3,8 @@ lang: en-US
 title: Sadhana
 description: The Realisation of Life.
 sidebar: false
+lastUpdated: false
+contributors: false
 author: Rabindranath Tagore
 prev:
   text: The Realisation of Beauty

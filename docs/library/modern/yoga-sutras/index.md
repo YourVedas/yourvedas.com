@@ -3,6 +3,8 @@ lang: en-US
 title: The Yoga Sutras of Patanjali
 description: The Book of the Spiritual Man
 sidebar: false
+lastUpdated: false
+contributors: false
 author: Charles Johnston
 ---
 

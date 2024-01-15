@@ -3,6 +3,8 @@ lang: en-US
 title: Stray Birds
 description: Thought Relics
 sidebar: false
+lastUpdated: false
+contributors: false
 author: Rabindranath Tagore
 ---
 

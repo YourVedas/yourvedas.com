@@ -2,6 +2,8 @@
 lang: en-US
 title: Author's Preface
 sidebar: false
+lastUpdated: false
+contributors: false
 next:
   text: The Relation of the Individual to the Universe
   link: ./I.md

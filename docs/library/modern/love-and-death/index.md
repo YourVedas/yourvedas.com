@@ -4,6 +4,8 @@ title: Love and Death
 description: Thought Relics
 sidebar: false
 author: Sri Aurobindo
+lastUpdated: false
+contributors: false
 ---
 
 # Love and Death [1921]

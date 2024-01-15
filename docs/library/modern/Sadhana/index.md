@@ -4,6 +4,8 @@ title: Sadhana
 description: The Realisation of Life.
 sidebar: false
 author: Rabindranath Tagore
+lastUpdated: false
+contributors: false
 ---
 
 # Sadhana—The Realisation of Life [1915]

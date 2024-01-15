@@ -4,6 +4,8 @@ title: Fruit-Gathering
 description: Fruit-Gathering
 sidebar: false
 author: Rabindranath Tagore
+lastUpdated: false
+contributors: false
 ---
 
 # Fruit-Gathering [1916]

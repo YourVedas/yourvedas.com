@@ -4,6 +4,8 @@ title: Gitanjali
 description: Song Offerings
 sidebar: false
 author: Rabindranath Tagore
+lastUpdated: false
+contributors: false
 ---
 
 # Gitanjali—Song Offerings [1913]

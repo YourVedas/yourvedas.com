@@ -3,6 +3,8 @@ lang: en-US
 title: Vedanta
 description: Sacred books of the east.
 sidebar: false
+lastUpdated: false
+contributors: false
 ---
 
 # Vedanta
