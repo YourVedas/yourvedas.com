@@ -11,18 +11,16 @@
     "url": "git+https://github.com/Your-Vedas/yourvedas.com.git"
   },
   "author": "@planetabhi",
-  "license": "Public Domain",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Your-Vedas/yourvedas.com/issues"
   },
   "homepage": "https://github.com/Your-Vedas/yourvedas.com#readme",
   "devDependencies": {
-    "@new-ui/effects": "^0.1.0",
+    "@new-ui/colors": "^1.3.0",
     "@new-ui/spacings": "^0.1.1",
     "@new-ui/typography": "^0.1.5",
-    "@sargamdesign/colors": "^2.1.1",
     "@vuepress/plugin-google-analytics": "^2.0.0-beta.68",
-    "sargam-icons": "^1.4.4",
     "vuepress": "^2.0.0-beta.68"
   }
 }

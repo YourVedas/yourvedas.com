@@ -5,7 +5,7 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 export default {
     lang: 'en-US',
     title: 'Sacred Books of the East',
-    description: 'Welcome to your vedas, the collection of sacred books of the east. The books presented here are either original scans from books in the public domain, material which has been presented elsewhere on the internet, or material included under fair use conditions in printed anthologies.',
+    description: 'The books presented here are either original scans of books in the public domain, material that has been presented elsewhere on the internet, or material included under fair use conditions in printed anthologies.',
     repo: 'https://github.com/Your-Vedas/yourvedas.com',
     theme: defaultTheme({
         logo: './images/logo.png',
@@ -28,7 +28,7 @@ export default {
       plugins: [
         googleAnalyticsPlugin({
           id: 'G-NCDG1XB4BN',
-        }),
+        })
       ],
 
 }
