@@ -13,7 +13,7 @@ contributors: false
 
 > This is a blank-verse (unrhymed iambic pentameter) retelling of a popular story from the Mahabharata, the tale of Ruru and Priyumvada. The hero, Ruru, quests into the afterlife to beg for the resurrection of his beloved bride, Priyumvada, killed by snake-bite. Death's bargain with Ruru is that he is to give up half his life so that Priyumvada can live again. This is a common theme in world mythology: Orpheus, Gilgamesh, and many others take the same journey.
 
-### p. 1
+##### p.1
 IN woodlands of the bright and early world,
 When love was to himself yet new and warm
 And stainless, played like morning with a flower
@@ -48,7 +48,7 @@ To strange beauty remote. And Ruru felt
 The sweetness of the early earth as sap
 All through him, and short life an aeon made 
 
-### p. 2
+##### p.2
 By boundless possibility, and love,
 Sweetest of all unfathomable love,
 A glory untired. As a bright bird comes flying
@@ -90,7 +90,7 @@ Or when the leaf-hid bird at night complained
 Near their wreathed arbour on the moonlit lake,
 Sobbing delight out from her heart of bliss, 
 
-### p. 3
+##### p.3
 Or in his clasp of rapture laughing low
 Of his close bosom bridal-glad and pleased
 With passion and this fiery play of love,
@@ -132,7 +132,7 @@ He laughed towards the sun: "O father Sun,"
 He cried, "how good it is to live, to love!
 Surely our joy shall never end, nor we 
 
-### p. 4
+##### p.4
 Grow old, but like bright rivers or pure winds
 Sweetly continue, or revive with flowers,
 Or live at least as long as senseless trees."
@@ -174,7 +174,7 @@ Was warm, and cruel hope pierced him; but pale
 As jasmines fading on a girl's sweet breast
 Her cheek was, and forgot its perfect rose. 
 
-### p. 5
+##### p.5
 Her eyes that clung to sunlight yet, with pain
 Were large and feebly round his neck her arms
 She lifted and, desiring his pale cheek
@@ -216,7 +216,7 @@ The lovely discontented spirit stole
 From her warm body white. Over her leaned
 Ruru, and waited for dead lips to move. 
 
-### p. 6
+##### p.6
 Still in the greenwood lay Priyumvada,
 And Ruru rose not from her, but with eyes
 Emptied of glory hung above his dead,
@@ -258,7 +258,7 @@ He spoke, with sorrow pale: "O grim cold Death!
 But I will not like ordinary men
 Satiate thee with cries, and falsely woo thee, 
 
-### p. 7
+##### p.7
 And make my grief thy theatre, who lie
 Prostrate beneath thy thunderbolts and make
 Night witness of their moans, shuddering and crying
@@ -300,7 +300,7 @@ My throne—glorious, though in eternal pain,
 Yet worth much pain to harbour divine fire."
 So ended the young pure destroyer's voice, 
 
-### p. 8
+##### p.8
 And the dumb god consented silently.
 In the same noon came Ruru; his mind had paused,
 Lured for a moment by soft wandering gleams
@@ -342,7 +342,7 @@ Stood wide in agony; one half was green
 And earthly, the other a weird brilliance
 Filled with the speed and cry of endless flame. 
 
-### p. 9
+##### p.9
 But he, with the fierce rushing-out of power
 Shaken and that strong grasp of anguish, flung
 His hands out to the sun; "Priyumvada!"
@@ -384,7 +384,7 @@ Till faint with the recalled felicity
 Low he moaned out: "O pale Priyumvada!
 O dead fair flower! yet living to my grief! 
 
-### p. 10
+##### p.10
 But I could only slay the innocent tree,
 Powerless when power should have been. Not such
 Was Bhrigu from whose sacred strength I spring,
@@ -426,7 +426,7 @@ A peril. He on Ruru that fair face
 Turned, and his steps with lovely gesture chained.
 "Who art thou here, in forests wandering,
 
-### p. 11
+##### p.11
 And thy young exquisite face is solemnised
 With pain? Luxuriously the Gods have tortured
 Thy heart to see such dreadful glorious beauty
@@ -468,7 +468,7 @@ And mine the husband's hungry arms and use
 Unwearying of old tender words and ways,
 Joy of her hair, and silent pleasure felt 
 
-### p. 12
+##### p.12
 Of nearness to one dear familiar shape.
 Nor only these, but many affections bright
 And soft glad things cluster around my name.
@@ -510,7 +510,7 @@ If thou must needs go down, and thou art strong
 In passion and in constancy, nor easy
 The soul to slay that has survived such grief 
 
-### p. 13
+##### p.13
 Steel then thyself to venture, armed by Love.
 Yet listen first what heavy trade they drive
 Who would win back their dead to human arms."
@@ -552,7 +552,7 @@ Incense of perfect actions, perfect thoughts,
 Or liberality wide as the sun's,
 Or ruthless labour or disastrous tears,
 
-### p. 14
+##### p.14
 Exile or death or pain more hard than death,
 Absence, a desert, from the faces loved;
 Even sin may be a sumptuous sacrifice
@@ -594,7 +594,7 @@ But one thyself. Think then how thou shalt mourn
 When thou hast shortened joy and feelst at last
 The shadow that thou hadst for such sweet store." 
 
-### p. 15
+##### p.15
 He ceased with a strange doubtful look. But swift
 Came back the lover's voice, like passionate rain.
 "O idle words! For what is mere sunlight?
@@ -636,7 +636,7 @@ Then in the joys of heaven we shall consort,
 Amid the gladness often touching hands
 To make bliss sure; or in the ghastly stream 
 
-### p. 16
+##### p.16
 If we must anguish, yet it shall not part
 Our passionate limbs inextricably locked
 By one strong agony, but we shall feel
@@ -678,7 +678,7 @@ He with the widening yellow Ganges came,
 Amazed, to trackless countries where few tribes,
 Kirath and Poundrian, warred, worshipping trees 
 
-### p. 17
+##### p.17
 And the great serpent. But robust wild earth,
 But forests with their splendid life of beasts
 Savage mastered those strong inhabitants.
@@ -720,7 +720,7 @@ Who weep remembering. Thither, O guide me,
 No despicable wayfarer, but Ruru,
 But son of a great Rishi, from all men 
 
-### p. 18
+##### p.18
 On earth selected for peculiar pangs,
 Special disaster. Lo, this petalled fire,
 How freshly it blooms and lasts with my great pain!"
@@ -762,7 +762,7 @@ Conducted by inexorable sound.
 For monstrous voices to his ear were close,
 And bodiless terrors with their dimness seized him 
 
-### p. 19
+##### p.19
 In an obscurity phantasmal. Thus
 With agony of soul to the grey waste
 He came, glad of the pain of passage over,
@@ -804,7 +804,7 @@ Of sunlight, little fragrances of flowers,
 Then from your spacious earth in a great horror
 Descend into this night, and here too soon 
 
-### p. 20
+##### p.20
 Must expiate your few inadequate joys.
 O bargain hard! Death helps us not. He leads
 Alarmed, all shivering from his chill embrace,
@@ -846,7 +846,7 @@ With early beauty in their limbs and young
 Sad children of their childlike faces robbed.
 Naked they paced with falling hair and gaze 
 
-### p. 21
+##### p.21
 Drooping upon their bosoms, weak as flowers
 That die for want of rain unmurmuring.
 Always a silence was upon the place.
@@ -888,7 +888,7 @@ Of silent sorrow on my breast and looked
 With the old altered eyes into my own
 And striven to make my anguish understand? 
 
-### p. 22
+##### p.22
 Oh joy, had she been here! for though her lips
 Of their old excellent music quite were robbed,
 Yet her dumb passion would have spoken to me;
@@ -930,7 +930,7 @@ The four-eyed dogs mysterious rested prone,
 Watchful, with huge heads on their paws advanced;
 And emanations of the godhead dim 
 
-### p. 23
+##### p.23
 Moved near him, shadowy or serpentine,
 Vast Time and cold irreparable Death.
 Then Ruru came and bowed before the throne;
@@ -972,7 +972,7 @@ Young Ruru found and plucked, but her too soon
 Thy fatal hooded snake on earth surprised,
 And he through gloom now travels armed by Love." 
 
-### p. 24
+##### p.24
 But then all Hades swaying towards him cried:
 "O mortal, O misled! But sacrifice
 Is stronger, nor may law of Hell or Heaven
@@ -1014,7 +1014,7 @@ Reblossoms." But the Shadow antagonist:
 And over the flaming pediment there moved,
 As on a frieze a march of sculptures, carved 
 
-### p. 25
+##### p.25
 By Phidias for the Virgin strong and pure,
 Most perfect once of all things seen in earth
 Or Heaven, in Athens on the Acropolis,
@@ -1056,7 +1056,7 @@ But suddenly a bloom, a fragrance. Hell
 Shuddered with bliss: resentful, overborne,
 The world-besetting Terror faded back 
 
-### p. 26
+##### p.26
 Like one grown weak by desperate victory,
 And a voice cried in Ruru's tired soul:
 "Arise! the strife is over, easy now
@@ -1098,7 +1098,7 @@ Has conquered, all the bright surrounding world
 Streams swiftly into distance, and he feels
 His daily senses slipping from his grasp, 
 
-### p. 27
+##### p.27
 So that unbearable enormous world
 Went rolling mighty shades, like the wet mist
 From men on mountain-tops; and sleep outstretched
