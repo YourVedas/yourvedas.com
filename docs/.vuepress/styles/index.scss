@@ -140,19 +140,19 @@
   --homepage-width: 600px;
 
   // override
-  --c-brand: var(--red6);
-  --c-brand-light: var(--c-brand);
-  --c-bg: var(--background-high-contrast);
-  --c-bg-navbar: var(--c-bg);
-  --c-bg-sidebar: var(--c-bg);
-  --c-bg-arrow: var(--icon-inked);
-  --c-text: var(--text-inked);
-  --c-text-accent: var(--c-brand);
-  --c-text-quote: var(--text-secondary);
-  --c-border: var(--border-inked);
-  --c-border-dark: var(--border-inked);
-  --c-tip: var(--text-inked);
-  --c-details-bg: var(--text-secondary);
+  --c-brand: var(--red6) !important;
+  --c-brand-light: var(--c-brand) !important;
+  --c-bg: var(--background-high-contrast) !important;
+  --c-bg-navbar: var(--c-bg) !important;
+  --c-bg-sidebar: var(--c-bg) !important;
+  --c-bg-arrow: var(--icon-inked) !important;
+  --c-text: var(--text-inked) !important;
+  --c-text-accent: var(--c-brand) !important;
+  --c-text-quote: var(--text-secondary) !important;
+  --c-border: var(--border-inked) !important;
+  --c-border-dark: var(--border-inked) !important;
+  --c-tip: var(--text-inked) !important;
+  --c-details-bg: var(--text-secondary) !important;
 
   .back-to-top {
     --back-to-top-color: var(--icon-inked);
@@ -335,8 +335,8 @@ h6 {
 }
 
 sup, code {
-  font-size: var(--desktop-code);
-  line-height: var(--desktop-code);
+  font-size: var(--desktop-body-sm);
+  line-height: var(--lh-desktop-body-sm);
   font-family: var(--sans);
 }
 
@@ -350,10 +350,20 @@ hr {
 
 p {  font-size: var(--desktop-body-xl); line-height: var(--lh-desktop-body-xl);}
 ul, ol { font-size: var(--desktop-body-xl); line-height: var(--lh-desktop-body-xl);}
-p:has(+ sup) { line-height: 0; }
+
+p:has(> sup) {
+  line-height: var(--lh-desktop-body-sm);
+}
 
 a.header-anchor {color: var(--text-inked);}
 a.header-anchor:hover {text-decoration: none;}
+
+.toggle-sidebar-button {
+  position: absolute;
+  top: 22px;
+  left: 1rem;
+  padding: 0;
+}
 
 .home .hero img {
     max-width: 100%;
@@ -388,6 +398,7 @@ font-weight: 600;
 .home .hero .action-button.primary {
   background-color: var(--c-brand);
   border-color: var(--c-brand);
+  color: var(--background-high-contrast);
 }
 .home .hero .action-button.primary:hover {
   background-color: var(--c-brand);
@@ -411,7 +422,8 @@ blockquote {
   color: var(--text-secondary);
   border-left: 2px solid var(--border-muted);
   margin: 1rem 0;
-  padding: 0 0 0 16px
+  padding: 0 0 0 16px;
+  font-style: italic;
 }
 
 blockquote p {

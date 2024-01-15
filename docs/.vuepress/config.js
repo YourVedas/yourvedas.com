@@ -12,7 +12,7 @@ export default {
         logoDark: './images/logo-dark.png',
         navbar: [
           {
-            text: 'Explore Library',
+            text: 'Library',
             link: '/library/index.html',
           }
         ],
