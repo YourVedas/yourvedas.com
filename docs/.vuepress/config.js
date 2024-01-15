@@ -11,17 +11,9 @@ export default {
         logo: './images/logo.png',
         navbar: [
           {
-            text: 'Vedas',
-            link: '/library/vedas',
-          },
-          {
-            text: 'Bhagavad Gita',
-            link: '/library/bhagavad-gita',
-          },
-          {
-            text: 'Modern',
-            link: '/library/modern',
-          },
+            text: 'Explore Library',
+            link: '/library/index.html',
+          }
         ],
       }),
 

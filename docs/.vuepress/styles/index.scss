@@ -128,12 +128,44 @@
 
   --black: #000000;
   --white: #ffffff;
+
+  --t-color: 0.1s ease;
+  --t-transform: 0.1s ease;
+  --navbar-height: var(--spacing-13);
+  --navbar-padding-v: 0.7rem;
+  --navbar-padding-h: 1.5rem;
+  --sidebar-width: 20rem;
+  --sidebar-width-mobile: calc(var(--sidebar-width) * 0.82);
+  --content-width: 600px;
+  --homepage-width: 600px;
+
+  // override
+  --c-brand: var(--red6);
+  --c-brand-light: var(--c-brand);
+  --c-bg: var(--background-high-contrast);
+  --c-bg-navbar: var(--c-bg);
+  --c-bg-sidebar: var(--c-bg);
+  --c-bg-arrow: var(--icon-inked);
+  --c-text: var(--text-inked);
+  --c-text-accent: var(--c-brand);
+  --c-text-quote: var(--text-secondary);
+  --c-border: var(--border-inked);
+  --c-border-dark: var(--border-inked);
+  --c-tip: var(--text-inked);
+  --c-details-bg: var(--text-secondary);
+
+  .back-to-top {
+    --back-to-top-color: var(--icon-inked);
+    --back-to-top-color-hover: var(--icon-inked);
+    width: var(--spacing-08);
+    height: var(--spacing-08);
+  }
+
+  .toggle-color-mode-button {
+    color: var(--icon-inked); }
 }
   
 :root {
-  --c-brand: var(--text-inked);
-
-  // New UI, Light
   // Backgrounds
   --background: var(--white);
   --background-secondary: var(--grey1);
@@ -185,22 +217,13 @@
   --text-success: var(--green6);
   --text-inked: var(--black);
 
-  // layout vars
-  --navbar-height: var(--spacing-13);
-  --navbar-padding-v: 0.7rem;
-  --navbar-padding-h: 1.5rem;
-  --sidebar-width: 20rem;
-  --sidebar-width-mobile: calc(var(--sidebar-width) * 0.82);
-  --content-width: 600px;
-  --homepage-width: 600px;
-
   .navbar { 
     background-color: var(--background-high-contrast);
   }
 }
 
 html.dark {
-  --c-brand: var(--text-inked);
+  --c-brand: var(--red4);
 
   // Backgrounds
   --background: var(--grey10);
@@ -295,10 +318,38 @@ h3 {
   line-height: var(--lh-desktop-heading-03);
   letter-spacing: var(--desktop-tracking-heading-03);
 }
+h4 {
+  font-weight: 700;
+  font-size: var(--desktop-heading-04);
+  line-height: var(--lh-desktop-heading-04);
+}
+h5 {
+  font-weight: 700;
+  font-size: var(--desktop-heading-05);
+  line-height: var(--lh-desktop-heading-05);
+}
+h6 {
+  font-weight: 500;
+  font-size: var(--desktop-heading-06);
+  line-height: var(--lh-desktop-heading-06);
+}
+
+code {
+  font-size: var(--desktop-code);
+  line-height: var(--desktop-code);
+}
+
+hr {
+  border: 0;
+  border-top-width: 0px;
+  border-top-style: none;
+  border-top-color: var(--border-inked);
+  border-top: 2px solid var(--border-inked);
+}
 
 .home .hero img {
     max-width: 100%;
-    max-height: 180px;
+    max-height: 280px;
     display: block;
     margin: 0 auto;
 }
@@ -314,10 +365,10 @@ h3 {
 
 .navbar-items .navbar-item > a:hover, .navbar-items .navbar-item > a.router-link-active { border-bottom: 1px solid var(--c-text-accent);}
 
-.home .footer {   font-family: var(--sans);
-                  border-top: 1px solid var(--border-muted);
+.home .footer {   font-family: var(--serif);
+                  border-top: 2px solid var(--border-inked);
                   text-align: center;
-                  color: var(--text-secondary-alt);
+                  color: var(--text-inked);
 }
 
 .home .hero .action-button { 
@@ -325,6 +376,13 @@ font-family: var(--sans);
 box-sizing: border-box;
 display: inline-block;
 font-weight: 600;
+}
+.home .hero .action-button.primary {
+  background-color: var(--c-brand);
+  border-color: var(--c-brand);
+}
+.home .hero .action-button.primary:hover {
+  background-color: var(--c-brand);
 }
 
 .home .hero h1 { 
@@ -346,7 +404,7 @@ p, ul, ol {  line-height: 32px;
 .navbar .site-name { display: none;}
 
 blockquote {
-  color: var(--c-text-quote);
+  color: var(--text-secondary);
   border-left: 2px solid var(--border-muted);
   margin: 1rem 0;
   padding: 0 0 0 16px
@@ -359,4 +417,5 @@ blockquote p {
 li {
   list-style-type: '∘';
   padding-inline-start: 1ch;
+  color: var(--text-inked);
 }
