@@ -329,14 +329,15 @@ h5 {
   line-height: var(--lh-desktop-heading-05);
 }
 h6 {
-  font-weight: 500;
+  font-weight: 700;
   font-size: var(--desktop-heading-06);
   line-height: var(--lh-desktop-heading-06);
 }
 
-code {
+sup, code {
   font-size: var(--desktop-code);
   line-height: var(--desktop-code);
+  font-family: var(--sans);
 }
 
 hr {
@@ -346,6 +347,13 @@ hr {
   border-top-color: var(--border-inked);
   border-top: 2px solid var(--border-inked);
 }
+
+p {  font-size: var(--desktop-body-xl); line-height: var(--lh-desktop-body-xl);}
+ul, ol { font-size: var(--desktop-body-xl); line-height: var(--lh-desktop-body-xl);}
+p:has(+ sup) { line-height: 0; }
+
+a.header-anchor {color: var(--text-inked);}
+a.header-anchor:hover {text-decoration: none;}
 
 .home .hero img {
     max-width: 100%;
@@ -390,10 +398,6 @@ font-weight: 600;
   line-height: var(--lh-desktop-heading-03);
   letter-spacing: -0.016em;
   margin-bottom: -0.6em;
-}
-
-p, ul, ol {  line-height: 32px;
-            font-size: 20px;
 }
 
 .navbar { 

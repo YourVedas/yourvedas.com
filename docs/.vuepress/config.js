@@ -5,7 +5,7 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 export default {
     lang: 'en-US',
     title: 'Sacred Books of the East',
-    colorMode: 'dark',
+    colorMode: 'light',
     description: 'The books presented here are either original scans of books in the public domain, material that has been presented elsewhere on the internet, or material included under fair use conditions in printed anthologies.',
     theme: defaultTheme({
         logo: './images/logo-light.png',
