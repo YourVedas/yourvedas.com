@@ -4,7 +4,7 @@ home: true
 title: Your Vedas
 description: 
 heroImage: /images/cover.png
-footer: Brought to you by @planetabhi (*_ _)人 
+footer: © 2024 Method Black. Registered in Punjab, India.
 actions:
   - text: Explore Library
     link: /library/index.html

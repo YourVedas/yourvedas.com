@@ -16,6 +16,16 @@ export default {
             link: '/library/index.html',
           }
         ],
+        head: [
+          [
+            "script",
+            {
+              "data-ad-client": "ca-pub-6859637226929870",
+              async: true,
+              src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+            },
+          ],
+        ],
     }),
 
     plugins: [
